@@ -20,7 +20,7 @@ Kontakt: Anna Leskovjanská
 
 Telefon: 421 915 992 030
 
-Dokument se bude ukladat do souboru.txt  / google drive
+Dokument se bude ukladat do souboru jobs.txt
 
 
 
