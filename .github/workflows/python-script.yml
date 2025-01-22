@@ -1,4 +1,3 @@
-
 name: Run Python Script
 
 on:
@@ -11,16 +10,16 @@ jobs:
     runs-on: ubuntu-latest  # Virtuální prostředí, kde se úloha spustí
 
     steps:
-    - name: Install dependencies
-      run: pip install -r requirements.txt
-
-    - name: Checkout repository
+    - name: Checkout repository  # Nejprve stáhne obsah repozitáře
       uses: actions/checkout@v3
 
-    - name: Set up Python
+    - name: Set up Python  # Nastaví správnou verzi Pythonu
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'  # Změň podle požadované verze Pythonu
 
-    - name: Run script
-      run: python scraper.py  # Spuštění tvého Python skriptu
+    - name: Install dependencies  # Nainstaluje závislosti
+      run: pip install -r requirements.txt
+
+    - name: Run script  # Spustí Python skript
+      run: python scraper.py
