@@ -1,0 +1,24 @@
+name: Run Python Script
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Spouštění každý den ve 12:00 UTC
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'  # Změň, pokud tvůj skript vyžaduje konkrétní verzi Pythonu
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt || true  # Ignoruje chybu, pokud requirements.txt neexistuje
+
+    - name: Run script
+      run: python scraper.py
