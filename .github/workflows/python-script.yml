@@ -3,11 +3,11 @@ name: Run Python Script
 on:
   schedule:
     - cron: '0 12 * * *'  # Spouštění každý den ve 12:00 UTC
-  workflow_dispatch:  # Přidání možnosti ručního spuštění
+  workflow_dispatch:  # Ruční spuštění
 
 jobs:
-  run-python-script:  # Název úlohy (job)
-    runs-on: ubuntu-latest
+  run-python-script:  # Toto je název úlohy (job)
+    runs-on: ubuntu-latest  # Virtuální prostředí, kde se úloha spustí
 
     steps:
     - name: Checkout repository
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'  # Změň podle potřeby
+        python-version: '3.x'  # Změň podle požadované verze Pythonu
 
     - name: Run script
-      run: python scraper.py  # Spuštění tvého skriptu
+      run: python scraper.py  # Spuštění tvého Python skriptu
