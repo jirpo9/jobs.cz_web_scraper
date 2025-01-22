@@ -5,7 +5,8 @@ on:
     - cron: '0 12 * * *'  # Spouštění každý den ve 12:00 UTC
   workflow_dispatch:  # Přidání možnosti ručního spuštění
 
-  run-python-script:
+jobs:
+  run-python-script:  # Název úlohy (job)
     runs-on: ubuntu-latest
 
     steps:
@@ -15,10 +16,7 @@ on:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'  # Změň, pokud tvůj skript vyžaduje konkrétní verzi Pythonu
-
-    - name: Install dependencies
-      run: pip install -r requirements.txt || true  # Ignoruje chybu, pokud requirements.txt neexistuje
+        python-version: '3.x'  # Změň podle potřeby
 
     - name: Run script
-      run: python scraper.py
+      run: python scraper.py  # Spuštění tvého skriptu
