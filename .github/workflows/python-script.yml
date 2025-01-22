@@ -6,20 +6,32 @@ on:
   workflow_dispatch:  # Ruční spuštění
 
 jobs:
-  run-python-script:  # Toto je název úlohy (job)
-    runs-on: ubuntu-latest  # Virtuální prostředí, kde se úloha spustí
+  run-python-script:
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository  # Nejprve stáhne obsah repozitáře
+    - name: Checkout repository  # Stáhne repozitář
       uses: actions/checkout@v3
+      with:
+        persist-credentials: false  # Nepoužije automatické přihlašovací údaje
 
-    - name: Set up Python  # Nastaví správnou verzi Pythonu
+    - name: Set up Python  # Nastaví prostředí Pythonu
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'  # Změň podle požadované verze Pythonu
+        python-version: '3.x'
 
-    - name: Install dependencies  # Nainstaluje závislosti
+    - name: Install dependencies  # Nainstaluje potřebné knihovny
       run: pip install -r requirements.txt
 
-    - name: Run script  # Spustí Python skript
+    - name: Run script  # Spustí tvůj skript
       run: python scraper.py
+
+    - name: Commit and push results  # Commitne a pushne změny zpět do repozitáře
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add Scrap_projekt/jobs.txt
+        git commit -m "Update scrap results [skip ci]"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Použije token pro přihlášení
