@@ -16,9 +16,8 @@ Detail pozice:
   join our team. This role requires the ability to build robust and scalable
   voice app..............
   
-Kontakt: Anna Leskovjanská
-
-Telefon: 421 915 992 030
+Kontakt: Jana Nováková
+Telefon: 1234
 
 Dokument se bude ukladat do souboru jobs.txt
 
