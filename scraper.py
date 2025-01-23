@@ -68,7 +68,10 @@ def scrape_jobs():
         soup = BeautifulSoup(response.text, "html.parser")
         job_cards = soup.find_all("article", class_="SearchResultCard")
         
-        with open("jobs.txt", "w", encoding="utf-8") as file:
+        # Nastavení cesty k výstupnímu souboru
+        file_path = os.path.join(os.getcwd(), "jobs.txt")
+        
+        with open(file_path, "w", encoding="utf-8") as file:
         # Zapisování dat
 
             for job in job_cards:
@@ -82,7 +85,7 @@ def scrape_jobs():
                     if job_data:
                         save_job_to_file(job_data, file)
         
-        print("Data byla úspěšně uložena do souboru 'Scrap_projekt/jobs.txt'")
+        print("Data byla úspěšně uložena do souboru '{file_path}'")
     else:
         print(f"Chyba při načítání stránky: {response.status_code}")
 
