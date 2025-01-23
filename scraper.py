@@ -68,9 +68,9 @@ def scrape_jobs():
         soup = BeautifulSoup(response.text, "html.parser")
         job_cards = soup.find_all("article", class_="SearchResultCard")
         
-        os.makedirs("Scrap_projekt", exist_ok=True)
-        
-        with open("Scrap_projekt/jobs.txt", "w", encoding="utf-8") as file:
+        with open("jobs.txt", "w", encoding="utf-8") as file:
+        # Zapisování dat
+
             for job in job_cards:
                 link_tag = job.find("a", class_="SearchResultCard__titleLink", href=True)
                 if link_tag and link_tag.get("href"):
