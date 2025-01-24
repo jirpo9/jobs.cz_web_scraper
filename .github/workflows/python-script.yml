@@ -26,12 +26,20 @@ jobs:
     - name: Run script  # Spustí tvůj skript
       run: python scraper.py
 
+    - name: Debug Git State  # Debugování stavu Git
+      run: |
+        git status
+        ls -la  # Zobrazí obsah pracovního adresáře
+        cat jobs.txt  # Zobrazí obsah souboru jobs.txt
+
     - name: Commit and push results
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-        git add Scrap_projekt/jobs.txt
+        git pull origin HEAD:main --rebase  # Synchronizace s repozitářem
+        git add jobs.txt  # Přidá změněný soubor jobs.txt
+        git status  # Ověří stav Gitu
         git commit -m "Update scrap results [skip ci]" || echo "No changes to commit"
         git push origin HEAD:main
       env:
