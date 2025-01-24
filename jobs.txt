@@ -1,45 +1,107 @@
-Název pozice: 👨‍💻C++ Windows Developer! Buďte u vývoje špičkových technologií !
-Firma: DevCom, spol. s r.o.
-Lokalita: Božanovská 884/10, Praha – Horní Počernice
+Název pozice: PHP developer s pokročilou znalostí Nette
+Firma: TAKTIK International s.r.o. , organizační složka
+Lokalita: Argentinská 1621/36, Praha – Holešovice
 Detail pozice:
-  Jste připraveni postavit se výzvám v rychle se měnícím světě
-  technologií?Chtěli byste své znalosti a kreativitu uplatnit v projektech,
-  které ovlivňují budoucnost automobilového průmyslu a letectví?V DevCom
-  nabízíme možnost pracovat na high-tech řešeních v oblasti automotive, avioniky
-  a průmyslové automatizace. Připojte se k nám a rozviňte svou kariéru
-  v prostředí, kde inovace a kvalita jdou ruku v ruce.Pro naše projekty hledáme
-  software developera s vynikající zkušeností s C++ ve Windows.Na čem se u nás
-  můžete podílet?Mezi hlavní oblasti, na kterých můžete pracovat, patří:Vývoj
-  aplikací pro Windows a Android (uživatelské a servisní aplikace) - C++ /
-  DelphiLinuxové aplikace – zaměřené na síťovou a systémovou administraci - C /
-  C++ / PythonVývoj webových aplikací a související práce na front-endu - PHP /
-  HTML / JavascriptPříprava technické dokumentace a tvorba programátorských
-  i uživatelských manuálů.Nevyžadujeme, abyste zvládli vše. Stačí, když máte
-  zkušenosti nebo zájem v některé z výše uvedených oblastí. Naši seniorní
-  kolegové Vás rádi provedou a podpoří při Vašem profesním růstu!Co od Vás
-  očekáváme?VŠ/SŠ vzdělání v oboru IT, elektrotechniky nebo příbuzném
-  oboruZnalost programování v C/C++ – další jazyky jako Java nebo PHP jsou
-  výhodouZájem o embedded vývoj, inovace a technické výzvySchopnost analytického
-  myšlení a řešení problémůOtevřenost k učení se novým technologiím
-  a postupůmTýmového ducha a ochotu sdílet své zkušenosti i učit se od
-  ostatníchCo u nás získáte?Možnost pracovat na unikátních projektech v oblasti
-  automotive a avioniky s reálným dopadem na trhŠanci podílet se na vývoji
-  moderních technologií od návrhu až po nasazeníNeformální a přátelské pracovní
-  prostředí, kde si vážíme otevřené komunikace a týmového duchaPříležitost růst
-  a učit se od zkušenějších kolegůAtraktivní finanční ohodnocení a motivující
-  bonusy dle výsledků a Vašeho přínosuFlexibilní pracovní dobu – preferujeme
-  kvalitu a výsledky před striktními pravidlyPráci na plný úvazek nebo částečný
-  úvazek při studiuPět minut od metra B (Černý Most) – snadná dostupnost MHD
-  i autemCo ještě přidáme?Účast na vývoji produktů pro mezinárodní trhy.Příjemné
-  pracovní prostředí s vybavením, které odpovídá vysokým standardům.Prostor pro
-  realizaci Vašich nápadů – kreativní a otevřený přístup vítáme.Chcete udělat
-  další krok ve své kariéře?Pokud se chcete podílet na zajímavých projektech
-  a růst v prostředí moderní technologické firmy, dejte nám o sobě vědět!
-  Zašlete nám svůj strukturovaný životopis a pár slov o tom, co Vás na
-  programování baví a co byste se u nás chtěli naučit. Rádi Vás poznáme
-  a probereme možnosti spolupráce.U nás se stanete součástí něčeho většího –
-  spolu posouváme technologie kupředu!
-Kontakt: Kontaktní osoba nenalezena
+  Co na Vás čeká?Vývoj PHP aplikacíMožnost se podílet na návrhu nových
+  funkcionalit i architektuřeKomunikace s business zadavatelemInterní
+  komunikace, která probíhá v nástroji JiraHledáme kolegu/kolegyni, který/á:se
+  zaměřuje se na řešení problémů a ne na překážky.Je týmovým hráčemNadšence –
+  Neholdujeme workoholismu, ale práce nás baví. Je potřeba pracovat chytře, ne
+  dřít.Otevřenou hlavu – Nemáme odpovědi na všechny otázky. Vaší prací bude je
+  hledat s naší podporou. Ptát se a nalézat řešení.Co u nás budete
+  potřebovat?Pokročilé znalosti programování v PHP (zkušenosti min. 5
+  let)Seniorní znalosti framework PHP Nette podmínkouPraxi s vývojem
+  backendových řešení minimálně 4 rokyZkušenost s Laravelem a Symfony
+  výhodouSeniorní znalosti objektového přístupuZkušenost s návrhem
+  a implementací APIPodmínkou je výborná znalost ČJ nebo SLJ na úrovni rodilého
+  mluvčího.Praxi s MySQL databázemiSchopnost řešit neočekávané problémyKreativní
+  myšlení a schopnost přinášet nové nápadyDlouhodobý zájem o vzděláváníJaké Vaše
+  další znalosti u nás využijete?JavaScriptjQueryHTMLCSSComposerNástroje, které
+  používáme pro vývoj:phpStormGITNabízíme:Možnost vzdělávat se a posouvat své
+  znalosti (kurzy, odborné konzultace).Podporu a vedení. Všechno vysvětlíme,
+  zbytek naučíme a odpovíme na všechny otázky nebo odpovědi společně
+  najdeme.Stabilitu. Rosteme a víme, co chceme i co si můžeme dovolit.Flexibilní
+  pracovní dobu a možnost práce z domova dle dohody.Firemní kultura je
+  neformální, přátelská, kanceláře s výbornou dostupností máme
+  v Holešovicích.Více informací o Taktiku najdete na stránkách www.etaktik.cz
+  v sekci O nás.Líbí se Vám to? Dejte nám o sobě vědět.
+Kontakt: Radka Štěpánková
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Javascript Developer for Voice Applications
+Firma: SOITRON s.r.o.
+Lokalita: Praha
+Detail pozice:
+  We are seeking a talented Front-end Developer with expertise in JavaScript to
+  join our team. This role requires the ability to build robust and scalable
+  voice applications, front-ends, and integrations to enhance our customer
+  service capabilities.RESPONSIBILITIES:Develop, implement, and maintain voice
+  applications, front-ends, and integrations using JavaScript and related
+  technologies.Integrate voice applications with call center technologies
+  (Cisco, Avaya, Genesys, or similar) through APIs and web services.Collaborate
+  with cross-functional teams to gather requirements and design voice solutions
+  that meet business needs.Perform troubleshooting and provide technical support
+  for voice applications and integrations.Stay updated with the latest
+  developments in voice application technologies and recommend
+  improvements.Ensure high availability, performance, and scalability of voice
+  applications and integrations.Create and maintain technical documentation
+  related to voice application development and integrations.Participate in code
+  reviews and ensure adherence to best practices and coding standards.Assist in
+  training and mentoring junior developers.REQUIRED SKILLS:Proven experience as
+  Front-end Developer or in a similar role.Strong proficiency in JavaScript,
+  including modern frameworks and libraries (e.g., React, Angular,
+  Node.js).Familiarity with APIs, web services, and VoIP technologies and
+  protocols.Excellent problem-solving, analytical, and debugging skills.Strong
+  communication and teamwork abilities.Ability to work in a fast-paced
+  environment and manage multiple tasks simultaneously.PREFERRED
+  QUALIFICATIONS:Experience with voice application development and integration
+  with call center technologies.Experience with cloud-based call center
+  solutions and voice platforms.Certifications in Cisco, Avaya, Genesys, or
+  other relevant voice technologies.Knowledge of speech recognition and natural
+  language processing technologies.Familiarity with containerization and
+  deployment technologies (e.g., Docker, Kubernetes).BENEFITS:Soitron offers
+  a wide range of benefits that will surely delight you and you will definitely
+  enjoy them. Here are a few of them:Company laptop and phoneMultisport
+  cardFinancial contributions for the birth of a child or marriageCompany
+  events, teambuilding activities, sports events...Employer contributions to the
+  supplementary pension scheme (DDS)Contribution for the purchase of
+  hardware/softwareLanguage coursesOpportunity for development and deepening of
+  qualificationsExtra days offLAST BUT NOT LEAST, working for an IT company that
+  is constantly advancingOpportunities for career growth
+Kontakt: Anna Leskovjanská
+Telefon: 421 915 992 030
+--------------------------------------------------------------------------------
+
+Název pozice: DWH / Python developer - 4 dny v týdnu remote
+Firma: BARTON Consulting s.r.o.
+Lokalita: Praha
+Detail pozice:
+  DWH / Python developerPro našeho klienta, úspěšnou technologickou společnost,
+  hledámepython developery (máme několik volných pozic),kteří se chtějí zapojit
+  do tvorby nového moderního datového skladu s využitím nejnovějších
+  technologií, jako jsou MS Azure a Databricks. Půjde o integrované řešení,
+  které zahrne datový sklad, data lake, analytické sandboxy a bude podporovat
+  AI/ML operace, rozhodovací mechanismy a kalkulační systémy.Uvítámezkušeného
+  nebo středně pokročilého python vývojáře,který má chuť se učit cloudovou
+  platformou Databricks (DBX, Apache Spark).Náplň práce:Vývoji, testování
+  a implementace SWVytváření nového moderního datového skladuVzájemné sdílení
+  technických znalostí v týmuOčekáváme:Vysokoškolskévzdělání je základMin. 1-2
+  roky zkušenostíjako Python vývojář, nezbytná je praxe v některém z oborů: Data
+  Science, AI/ML, DWH vývoj, ETLDobrá znalostSQLvývojeZnalost Databricksje
+  výhodouAnalytické schopnosti, zodpovědnost, samostatné uvažování ale i práce
+  v týmuUvítáme znalost Cloudu (Azure nebo AWS), Apache Spark, PostgeSQL (či
+  jiné DB)Technologie s které využíváme: Databricks, Azure, Apache Spark,
+  Python, Terraform, Docker, Azure devops, Jenkins, actions gitHub, PowerBI,
+  Dawiso, Enterprise Architect, PostgreSQL, OracleNabízíme:Stabilní a atraktivní
+  mezinárodní zaměstnavatelFlexibilní pracovní doba a možnost home office. Máme
+  několik projektů: některé s 2-3 dny v týdnu doma, u dvou je možný i full
+  remote režimMožnostHPP nebo IČONeformální firemní kultura. Často se po práci
+  setkáváme na pivko či jinou akci.5 týdnů dovolenéPříspěvek na
+  stravováníBenefity jako MultiSport karta, příspěvky na dopravu, půjčky,
+  pojistky a další...Přidej se k nám jako Python developer a zapoj se do rozvoje
+  našich datových procesů a našeho týmu skvělých parťáků!
+Kontakt: Jitka Panáková
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
@@ -179,71 +241,7 @@ Kontakt: Kontaktní osoba nenalezena
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Backend Developer
-Firma: Marketup s.r.o.
-Lokalita: Plzeňská 345/5, Praha – Smíchov
-Detail pozice:
-  Tvoje skillsMust haveSQL (my používáme MySQL), GraphQL, Git, HTML, CSS, Python
-  (nebo jiná alternativa), Typescript, Google Cloud Platform (Cloud Functions,
-  App Engine...)Zkušenost s vývojem komplexnější webové aplikace.Baví tě
-  objevování nových technologií, jako jsou AI, cloudové platformy
-  apod.Samostatnost a vlastní motor učit se nové věci.Agilní způsob realizace
-  projektů.Kritické myšlení a selský rozum.Nice to haveZkušenost s GitHub
-  Copilot a DevOps nástroji a procesy; schopnost vývoje s využitím Reactu
-  (TypeScriptu, Next.js).Tvůj jobVývoj webové aplikace “Centrální mozek”
-  👇Vyvíjíme vlastní webovou aplikaci. Backend máme řešený v Pythonu, na
-  frontendu jsme se rozhodli pro React s Typescriptem a data z MySQL na frontend
-  dostáváme přes GraphQL. Roadmapa nových features na následující období je nyní
-  stanovená. Aktuálně aplikaci úspěšně vyvíjíme a adoptujeme interně u nás
-  v Marketupu, ale do budoucna s ní chceme jít i ven.Budování interních
-  microservices 👇Procesy ve firmě, které se opakují, potřebujeme alespoň
-  částečně zautomatizovat - nejčastěji se jedná o  implementaci řešení stojící
-  na API jednotlivých marketingových platforem i dalších nástrojů. Budeme rádi
-  také za tvé vstupy ohledně zabezpečení webových aplikací.Projekty pro klienty
-  👇Klienti nás občas osloví pro intergrace systémů třetích stran, primárně
-  k využítí datových skladů.Realizace vlastních nápadů a menších projektů 👇Každý
-  člen týmu má na sobě rozvoj alespoň jednoho nového produktu/projektu, který si
-  sám zvolil. Nápady vítáme a dáme ti prostor na to je realizovat.Náš
-  jobNabídneme ti jak stabilní dlouhodobé projekty, tak dynamické krátkodobé
-  projekty.Budeš u nás patřit do sekce R&D, kde nejsme přehlceni velkým
-  množstvím klientských projektů. Každý den však budeš zapojen do interních
-  procesů, kde budeš mít volnou ruku co se týče realizace, ale zároveň
-  zodpovědnost za doručené výsledky.Budeme investovat do tvého rozvoje
-  a vzdělávání, k dispozici budeš mít seniorní lidi na externí
-  konzultace.Pravidelně se budeme zajímat o to, co tě baví a jakým směrem se
-  chceš profilovat.Dáme ti svobodu a flexibilitu, kterou potřebuješ pro to, aby
-  se ti pracovalo, co možná nejlépe.Jak vypadá Data&Tech tým v MarketupuOddělení
-  Product v Marketup je tým aktuálně složený ze 4 specialistů s různou mírou
-  seniority a zkušeností. Úzce spolupracujeme i s ostatními kolegy v Datově
-  technologickém oddělení, dohromady je nás 10. Najdeš u nás koncentrované know-
-  how z oblasti technologií, webové a datové analytiky, optimalizace webu,
-  automatizace a reportingu.Řešíme výzvy na straně klientů a i u nás
-  v Marketupu.Pracujeme s technologiemi Python, GraphQL, MySQL, BigQuery,
-  Typescript, React a další. Společně stavíme technologické řešení pro Marketup
-  a datové nástroje pro naše klienty na technologiích Google Cloud Platform.
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: PHP developer s pokročilou znalostí Laravel či Nette a Symfony
+Název pozice: PHP developer s pokročilou znalostí Nette
 Firma: TAKTIK International s.r.o. , organizační složka
 Lokalita: Argentinská 1621/36, Praha – Holešovice
 Detail pozice:
@@ -255,21 +253,31 @@ Detail pozice:
   dřít.Otevřenou hlavu – Nemáme odpovědi na všechny otázky. Vaší prací bude je
   hledat s naší podporou. Ptát se a nalézat řešení.Co u nás budete
   potřebovat?Pokročilé znalosti programování v PHP (zkušenosti min. 5
-  let)Seniorní znalosti framework PHP Laravel či Nette,Symfony podmínkouPraxi
-  s vývojem backendových řešení minimálně 4 rokySeniorní znalosti objektového
-  přístupuZkušenost s návrhem a implementací APIPodmínkou je výborná znalost ČJ
-  nebo SLJ na úrovni rodilého mluvčího.Praxi s MySQL databázemiSchopnost řešit
-  neočekávané problémyKreativní myšlení a schopnost přinášet nové
-  nápadyDlouhodobý zájem o vzděláváníJaké Vaše další znalosti u nás
-  využijete?JavaScriptjQueryHTMLCSSComposerNástroje, které používáme pro
-  vývoj:phpStormGITNabízíme:Možnost vzdělávat se a posouvat své znalosti (kurzy,
-  odborné konzultace).Podporu a vedení. Všechno vysvětlíme, zbytek naučíme
-  a odpovíme na všechny otázky nebo odpovědi společně najdeme.Stabilitu. Rosteme
-  a víme, co chceme i co si můžeme dovolit.Flexibilní pracovní dobu a možnost
-  práce z domova dle dohody.Firemní kultura je neformální, přátelská, kanceláře
-  s výbornou dostupností máme v Holešovicích.Více informací o Taktiku najdete na
-  stránkách www.etaktik.cz v sekci O nás.Líbí se Vám to? Dejte nám o sobě vědět.
+  let)Seniorní znalosti framework PHP Nette podmínkouPraxi s vývojem
+  backendových řešení minimálně 4 rokyZkušenost s Laravelem a Symfony
+  výhodouSeniorní znalosti objektového přístupuZkušenost s návrhem
+  a implementací APIPodmínkou je výborná znalost ČJ nebo SLJ na úrovni rodilého
+  mluvčího.Praxi s MySQL databázemiSchopnost řešit neočekávané problémyKreativní
+  myšlení a schopnost přinášet nové nápadyDlouhodobý zájem o vzděláváníJaké Vaše
+  další znalosti u nás využijete?JavaScriptjQueryHTMLCSSComposerNástroje, které
+  používáme pro vývoj:phpStormGITNabízíme:Možnost vzdělávat se a posouvat své
+  znalosti (kurzy, odborné konzultace).Podporu a vedení. Všechno vysvětlíme,
+  zbytek naučíme a odpovíme na všechny otázky nebo odpovědi společně
+  najdeme.Stabilitu. Rosteme a víme, co chceme i co si můžeme dovolit.Flexibilní
+  pracovní dobu a možnost práce z domova dle dohody.Firemní kultura je
+  neformální, přátelská, kanceláře s výbornou dostupností máme
+  v Holešovicích.Více informací o Taktiku najdete na stránkách www.etaktik.cz
+  v sekci O nás.Líbí se Vám to? Dejte nám o sobě vědět.
 Kontakt: Radka Štěpánková
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Název nenalezen
+Firma: Firma nenalezena
+Lokalita: Lokalita nenalezena
+Detail pozice:
+  Detail pozice nenalezen
+Kontakt: Kontaktní osoba nenalezena
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
@@ -442,6 +450,33 @@ Kontakt: Natálie Kubincová
 Telefon: +420 733 546 448
 --------------------------------------------------------------------------------
 
+Název pozice: Název nenalezen
+Firma: Firma nenalezena
+Lokalita: Lokalita nenalezena
+Detail pozice:
+  Detail pozice nenalezen
+Kontakt: Kontaktní osoba nenalezena
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Název nenalezen
+Firma: Firma nenalezena
+Lokalita: Lokalita nenalezena
+Detail pozice:
+  Detail pozice nenalezen
+Kontakt: Kontaktní osoba nenalezena
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Název nenalezen
+Firma: Firma nenalezena
+Lokalita: Lokalita nenalezena
+Detail pozice:
+  Detail pozice nenalezen
+Kontakt: Kontaktní osoba nenalezena
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
 Název pozice: APLIKAČNÍ VÝVOJÁŘ - PYTHON a C++ (pro ABSOLVENTY VŠ IT)
 Firma: Seyfor, a. s.
 Lokalita: Okružní 871/3a, Brno – Lesná
@@ -521,79 +556,13 @@ Kontakt: Kontaktní osoba nenalezena
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
-Název pozice: Senior Backend Engineer pro datovou platformu
-Firma: Seznam.cz, a.s.
-Lokalita: Palachovo náměstí 723/1, Brno – Starý Lískovec
+Název pozice: Název nenalezen
+Firma: Firma nenalezena
+Lokalita: Lokalita nenalezena
 Detail pozice:
-  Budujeme novou celofiremnídatovou platformu, která propojí data napříč všemi
-  týmy a umožní rychlou a efektivní práci s nimi. Naše řešení stavíme na
-  technologii Snowflake Data Cloud a analytické platformě Keboola, které
-  zajišťují škálovatelné zpracování velkých objemů dat a podporují samoobslužnou
-  analytiku napříč firmou.Postupně nahrazujeme stávající interně vyvinutý
-  analytický nástroj založený na Hadoop technologiích, jako jsou Spark a Hive.
-  Pracujeme také s technologiemi pro streamové zpracování dat, jako jsou Kafka
-  a Flink. Součástí transformace je i integrace nástrojů pro orchestraci
-  a vizualizaci dat, například Airflow, Tableau nebo Superset. Kromě technického
-  rozvoje klademe důraz na data governance a rozvoj data literacy, abychom
-  podpořili kulturu rozhodování založenou na datech.Jsme osmičlenný tým složený
-  z vývojářů, datových inženýrů, analytiků a produktového manažera. Aktivně
-  spolupracujeme s týmy napříč firmou v rámci přístupu data mesh a společně
-  budujeme otevřený datový ekosystém, který umožní snadný a bezpečný přístup
-  k datům přesně v momentě, kdy jsou potřeba.Co vás denně čekáNavrhování a vývoj
-  škálovatelných řešení pro moderní datovou platformu postavenou na
-  technologiiSnowflake Data Cloud, která zpracovává velké objemy dat.Integrace
-  a optimalizace datových toků s využitímbig data technologií jako Spark, Hive,
-  Kafka a Flinkpro efektivní dávkové i streamové zpracování dat.Automatizace
-  datových procesů prostřednictvím návrhu a správy workflow vApache Airflow
-  a vývoj CI/CDpipeline pro hladký a bezpečný deployment.Monitorování
-  a optimalizace výkonu platformy pomocí nástrojů jakoPrometheus
-  a Grafana,a řešení provozních incidentů s cílem zajistit plynulý chod datových
-  služeb.Nasazování a správa kontejnerizovaných služeb v prostředíDocker
-  a Kubernetess využitím ArgoCD pro automatizované deploymenty a správu
-  verzí.Spolupráce s analytiky, inženýry a produktovými týmy na návrhu a rozvoji
-  datových řešení podle principů data mesh.Integrace nových datových zdrojů
-  a podíl na nastavování a prosazování pravidel data governance a bezpečnosti
-  dat (data security).Vylepšování interních API a nástrojů pro efektivní práci
-  s daty a podporu ostatních týmů napříč firmou.Účast na code reviews
-  a mentoring týmu, sdílení best practices a podpora technologického růstu méně
-  zkušených kolegů.Co budete potřebovat za znalosti/dovednostiPraxi s big data
-  technologiemi: Zkušenost s nástroji jakoSpark, Hive, Kafka a Flinkpro dávkové
-  i streamové zpracování dat.Znalost databázových technologií: Praktická
-  zkušenost srelačními databázemia optimalizací dotazů.Pokročilou znalost
-  programování: Výborná orientace v jazycích jakoPython, Scala nebo Javapro
-  vývoj backendových a datových aplikací.Zkušenosti s automatizací a orchestrace
-  datových procesů: Znalost nástrojů jako Apache Airflow a schopnost navrhovat
-  a spravovat CI/CD pipeline.Znalost kontejnerizace a správy infrastruktury:
-  Zkušenosti sDockerem a Kubernetes, včetně nástrojů pro automatizované
-  deploymenty jako ArgoCD.Znalost monitoringu a optimalizace: Schopnost pracovat
-  s nástrojiPrometheus a Grafanapro sledování a optimalizaci výkonu.Povědomí
-  o data governance a bezpečnosti dat: Základní znalost principů data
-  governance, data security a správy přístupových práv.Analytické a systémové
-  myšlení: Schopnost navrhnout robustní, efektivní a škálovatelná řešení pro
-  zpracování velkých objemů dat.Zkušenosti s agilním vývojem: Orientace
-  v agilních metodikách (Scrum, Kanban) a schopnost spolupracovat v rámci
-  multidisciplinárního týmu.Výhodou: Zkušenost s cloudovými datovými platformami
-  jako Snowflake Data Cloud, Redshift nebo BigQuery a návrhem interních API či
-  datových integračních procesů.Na co se můžete těšitPráci na klíčové
-  celofiremní platformě, která stojí na moderním data stacku a významně
-  ovlivňuje datově podložené rozhodování napříč firmou.Moderní technologie
-  a nástroje – budete pracovat s Snowflake Data Cloud, Keboola, Apache Spark,
-  Kafka, Flink, Airflow, Docker, Kubernetes a ArgoCD.Technické výzvy
-  a smysluplné projekty – čeká vás práce s velkými objemy dat, optimalizace
-  datových toků a vývoj škálovatelných řešení.Možnost ovlivnit technologické
-  směřování – prostor přicházet s vlastními nápady a podílet se na výběru
-  a zavádění nových technologií.Přátelský a neformální tým – spolupráce
-  v osmičlenném týmu rozprostřeném mezi Prahou, Brnem a Bratislavou, kde si
-  všichni tykáme, sdílíme know-how a společně řešíme technické výzvy.Spolupráce
-  napříč firmou – budete součástí otevřeného ekosystému, kde úzce spolupracujeme
-  s analytiky, inženýry i produktovými týmy v rámci data mesh.Flexibilní
-  pracovní doba a možnost home office – práce z kanceláře i z domova podle
-  vašich preferencí.Podpora vzdělávání a osobního rozvoje – účast na odborných
-  školeních, konferencích, interních meetupech a přístup k odborným
-  materiálům.Zázemí stabilní české firmy – žádné zbytečné formality, žádný dress
-  code, moderní kanceláře v Praze, Brně i Bratislavě a skvělé kafe k tomu.
-Kontakt: Tomáš Baranec
-Telefon: +421 947 912 570
+  Detail pozice nenalezen
+Kontakt: Kontaktní osoba nenalezena
+Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
 Název pozice: Název nenalezen
@@ -603,6 +572,50 @@ Detail pozice:
   Detail pozice nenalezen
 Kontakt: Kontaktní osoba nenalezena
 Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Název nenalezen
+Firma: Firma nenalezena
+Lokalita: Lokalita nenalezena
+Detail pozice:
+  Detail pozice nenalezen
+Kontakt: Kontaktní osoba nenalezena
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Software engineer C++
+Firma: Edhouse s.r.o.
+Lokalita: Vavrečkova 7074, Zlín
+Detail pozice:
+  Základní informace o poziciLokalita: Olomouc / Uherské Hradiště / Vsetín /
+  ZlínTyp spolupráce: Hlavní pracovní poměrPracovní režim: HybridníNázev pozice:
+  SW engineerCo můžeš očekávat od práce v Edhouse?Budeš se podílet na významných
+  a globálních projektech. A protože se často jedná o projekty zahraničních
+  zákazníků, je nezbytné, abys uměl/a dobře komunikovat anglicky. Jelikož se nám
+  osvědčilo, že ta nejlepší týmová spolupráce se odehrává na pracovišti, budeme
+  tě potřebovat často v kanceláři. Mezi technologie, které nejčastěji používáme
+  patří .NET, C#, C++, WPF, React, Angular, zkušenosti máme i s technologiemi
+  jako jsou například Rust a Python.Být součástí našeho týmu ti dá příležitost
+  pracovat na projektech pro významné tuzemské i zahraniční zákazníky, kterými
+  jsou například Thermo Fisher Scientific, Schneider Electrics, onsemi, NCR
+  Voyix, Glass Service, Tajmac-ZPS a další. U nás se budeš technologicky
+  posouvat a poznáš řadu inspirativních lidí, kteří ti s tím pomohou.Čemu se
+  u nás hlavně věnujeme?Ve své roli budeš vyvíjet software, což zahrnuje vše od
+  analýzy požadavků až po finální implementaci. Zabýváme se vývojem systémového
+  software, dále vývojem desktopových, webových i mobilních aplikací. Jsme
+  specialisté na frontend, backend, UI/UX i cloud včetně DevOps.Co pro tuto
+  práci potřebuješ mít?Znalost jazyka C++. Výhodou je zkušenost s CI/CD,
+  DevOps.Schopnost samostatné práce i týmové spolupráce.Znalost principů
+  softwarového inženýrství.Zkušenosti s agilním vývojem software.Řidičské
+  oprávnění skupiny B, protože čas od času cestujeme za zákazníky.Komunikační
+  schopnosti v angličtině na úrovni B2 nebo vyšší.Co ti můžeme v Edhouse
+  nabídnout:Práci na dlouhodobých a inovativních projektech z oblasti vědy
+  a techniky.Neformální pracovní prostředí, kde klademe důraz na work-life
+  balance.Přátelský kolektiv v dynamicky se rozvíjejícím software house.Možnost
+  profesního růstu a odborného vzdělávání.Flexibilní pracovní dobu a občasnou
+  možnost práce na dálku.Finanční, vzdělávací a volnočasové benefity.
+Kontakt: Pavel Vanča
+Telefon: +420 730 539 649
 --------------------------------------------------------------------------------
 
 Název pozice: Analytik | Tester pro stavební software
@@ -660,97 +673,41 @@ Kontakt: Kontaktní osoba nenalezena
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
+Název pozice: FULLSTACK PYTHON DEVELOPER PRO AI
+Firma: VLTAVA LABE MEDIA a.s.
+Lokalita: U Trezorky 921/2, Praha – Jinonice
 Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Vývojáře technologického informačního systému
-Firma: Shimano Czech Republic, s.r.o.
-Lokalita: Dětmarovická 403/4, Karviná – Staré Město
-Detail pozice:
-  Baví Vás práce s daty?Pokud ano, hledáme právě Vás!Společnost Shimano Czech
-  Republic s.r.o., světová jednička v oboru cyklistiky hledá
-  kandidáta/kandidátku na pozici:Vývojáře technologického informačního systémuCo
-  budete na pozici dělat?• spravovat a vyvíjet nové aplikace a komponenty našeho
-  technologického informačního systému• pracovat s databázemi• zabývat se sběrem
-  a analýzou dat z výrobních strojů a procesů• pracovat na firemních
-  projektechCo od uchazečů očekáváme?• pokročilou znalost programování
-  v jazycích JavaScript,PHP• základní znalost programování v jazycích Python,
-  C/C++• základní ovládání technologií DHTMLX• pokročilá znalost Oracle (PL/SQL
-  jazyk)• základní znalost MySQL• základní znalost systémů Linux, Windows•
-  základy v oblasti bezpečnosti sítí, serverů a webových aplikací• Aj na
-  komunikativní úrovní, především schopnost porozumět technickým textůmNa
-  oplátku Vám nabízíme• pololetní bonusy• prostor pro uplatňování inovačních
-  aktivit• pravidelná odborná školení• 1 týden dovolené navíc• výuku Aj přímo na
-  pracovišti• výborné obědy už od 1 Kč• zvýhodněnou cenu na jízdní kola• hlavní
-  pracovní poměr na dobu určitou s možností prodloužení na dobu neurčitou
-Kontakt: Natálie Lubojacká
-Telefon: 597 441 202
---------------------------------------------------------------------------------
-
-Název pozice: C++ programátor - dlouhodobá spolupráce na celosvětovém produktu
-Firma: Compelson s.r.o.
-Lokalita: Jankovcova 1569/2c, Praha – Holešovice
-Detail pozice:
-  Proč se k nám přidat?Nabízíme stabilní práci na tak dlouho, jak dlouho budeš
-  chtít zůstatJsme stabilní firma na trhu od roku 1991Jsme parta lidí, kterou
-  baví to co dělajíTo, co děláme, má hlubší smyslTvoříme jedinečné produkty,
-  které pomáhají odhalovat zločinceNaše produkty se používají na celém
-  světěPoužíváme nejlepší hardware, software a cloudové službyZajistíme tvůj
-  odborný růst, poskytujeme odborné konference, spolupracujeme
-  s univerzitamiJsme přímo centrála s core vývojem, ne pobočka, která programuje
-  vedlejší věciMáme flexibilní pracovní dobuNové moderní prostory s luxusním
-  výhledem na VltavuDobře vydělávámeNa čem u nás můžeš rozvíjet svůj
-  talent?U nás ani nezakrníš, ani se nebudeš nudit, vývoj u nás tě bude bavit.
-  Náš vývoj je totiž neskutečně rozmanitý a navíc můžeš přecházet mezi různými
-  projekty:Programování pokročilých algoritmůProgramování cool UI, které
-  uživatelé milujíPokročilá grafika - zobrazování grafů, souvislostí mezi
-  důkazyProlamování bezpečnosti telefonů - low level programování, komunikační
-  protokolyAnalýza dat dronůLow-level připojování do cloudových služeb,
-  prolamováníVýzkum v oblasti IoT, analýza bezpečnosti, prolamováníVýzkum
-  a vývoj v oblasti Deep Learning, rozpoznání obrazu, videa, porozumění textu,
-  vyhodnocování souvislostí, důkazů a dalšíHledání a analýza malware
-  a spywareImplementace file-systémů na low-level úrovniPráce na našem vlastním
-  "Total Commanderu"Spolupráce přímo na konkrétních případech s vyšetřovateli
-  doma i ve světěMáme k dispozici obrovské množství všech možných mobilů ke
-  zkoumáníJsme umělciU nás neděláme zakázkový vývoj jako většina softwarových
-  firem, ale pracujeme jen na svých produktech, na zadání, které si sestavujeme
-  sami a v termínech které si určujeme my. Zkrátka do naší práce nám uživatelé
-  nemluví.Pojďme se poznatPokud se k nám chceš přidat, pošli nám své CV a my se
-  s tebou spojíme.Těšíme se, až tě osobně poznáme!
-Kontakt: Barbora Girgleová
-Telefon: +420 601 002 324
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
+  DO NAŠEHO MENŠÍHO AI TÝMU HLEDÁME ŠIKOVNÉHO SENIORNÍHO PYTHON VÝVOJ, který již
+  má zkušenost s LLM modely, umí pracovat samostatně i v týmu a rád/a by se
+  podílel/a na vývoji naší interní AI aplikace.Pokud Tě zajímá vývoj aplikace,
+  která našim kolegům umožní používat nejnovější AI nástroje a zásadně jim tak
+  usnadní jejich práci díky využití AI, rádi se s Tebou potkáme.Co Tě u nás
+  čeká:Vývoj interní AI aplikace – frontend i backendPřepis původní aplikace do
+  nového řešení a její následný rozvojImplementace nových funkcí a nástrojů dle
+  požadavků AI týmu (primárně pro redakce)Napojování systémů a propojování
+  různých služeb přes APIAgilní vývoj v menším týmu se zaměřením na využití
+  AIPři své práci budeš potřebovat:Seniorní zkušenost v jazyce PythonPředchozí
+  praxi s některým z frameworků (FastAPI, Flask…)Perfektní znalost relačních
+  i NoSQL databází (PostgreSQL, Mongo…)Zkušenost s implementací také frontend
+  část aplikace (React, Tailwind…)Schopnost vytvářet uživatelsky přívětivá
+  a intuitivní rozhraní (UI/UX)Zkušenost s napojováním API služeb různých LLM
+  a dalších služebPorozumění fungování a vývoji robustních aplikacíUmět
+  navrhnout a implementovat aplikaci dle zadání od nuly až do produkčního
+  nasazeníMít základní DevOps znalosti (Git, Docker, webserver, CI/CD)Zachování
+  chladné hlavy při řešení různých technických situacíBýt iniciativní a přispět
+  svým názorem ke směřování projektuRychle se učit nové věciSamostatnost, ale
+  i schopnost efektivně komunikovat s kolegyPlusové body:Zkušenost s vývojem
+  AI/LLM aplikacíZnalost fungování jazykových modelů (zejména OpenAI
+  a Anthropic)Zkušenosti s mediálním prostředím/obsahem a práce s redakcemiCo na
+  oplátku nabízíme my?Podílení se na vytváření inovativního AI produktu, který
+  tvoříme od základůMožnost ovlivnit technické i produktové směřování
+  aplikaceNadále se vzdělávat a rozvíjet své znalosti v oblasti AITým plný
+  pohodových kolegů :)Spolupráci na pracovní smlouvu nebo na IČOMožnost práce
+  z domovaÚvodní zaškolení a proces průběžného vzděláváníSlužební mobil
+  a počítač20 dní dovolené, 5 dní Relax Days, 4 dny zdravotního volna
+  a narozeninový denPříspěvek na stravování a na penzijní spoření+ další
+  tajnosti, které si necháme na osobní setkáníDej nám o sobě vědět.
+Kontakt: Monika Lustigová
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
