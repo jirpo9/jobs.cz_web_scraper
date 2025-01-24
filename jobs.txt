@@ -1,3 +1,181 @@
+Název pozice: Backend Python a Go programátor
+Firma: Seznam.cz, a.s.
+Lokalita: Praha
+Detail pozice:
+  Pro jeden z týmů Vyhledávání hledáme nového kolegu, který s námi bude rozvíjet
+  hledání ve strukturovaných datech a prezentaci výsledků ve formě zpracované
+  jazykovým modelem (generování odpovědi na základě vyhledaných dat
+  a interaktivní konverzace s uživatelem). Obecně v týmu vyvíjíme microservices
+  a skripty na zpracování dat. Úzce spolupracujeme s výzkumnými týmy.Hledáme
+  člověka, kterýprogramuje v Pythonu nebo Go a nebojí se ten druhý z nich
+  případně doučit.rád pracuje v týmu, společně se zapojí do návrhu řešení
+  a dotahuje věci do konce.ideálně má zkušenosti s vývojem distribuovaných
+  systémů pod vysokou zátěží.má nebo chce získat zkušenosti s použitím
+  strojového učení (ML) a velkých jazykových modelů (LLM).nebojí se občas
+  přelouskat nějaký ten vědecký paper a pustit se do průzkumu neprobádaných
+  oblastí.Technologie, které používámePython a Go pro vývoj aplikacígRPC, REST
+  (OpenAPI)Git (GitLab) - code review, CI/CDLinux (Debian), Docker,
+  KubernetesPrometheus, Grafana, Kibana/Elasticsearch, OpenTelemetry -
+  provozování aplikací, stačí základní přehledPostgreSQL - stačí základní
+  znalost SQLYouTrack - tickety a scrumová nástěnkaKafka, S3, RedisCo
+  nabízímeNeformální atmosféru a partu přátelských kolegů a kolegyň se smyslem
+  pro humor.Prostor pro seberealizaci a osobní rozvoj - v Seznamu máme neustále
+  možnost učit se nové technologie a postupy a rozvíjet své znalosti při práci
+  na velkých a zajímavých projektech.Flexibilní pracovní dobu a po zaškolení
+  možnost pracovat až 3 dny v týdnu z domova.
+Kontakt: Eva Juraszková
+Telefon: +420 720 056 550
+--------------------------------------------------------------------------------
+
+Název pozice: Python Data Engineer
+Firma: Gen Digital(Avast)
+Lokalita: Pikrtova 1737/1a, Praha – Nusle
+Detail pozice:
+  We're more than just a company; we're a global leader in digital safety. With
+  a strong commitment to ensuring everyone can navigate the digital world
+  securely, we unite the best minds and cutting-edge technology through our
+  family of brands: Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, and
+  CCleaner. Together, we protect over 500 million people worldwide. Our
+  workplace is built on inclusivity, where your well-being is a top priority. We
+  believe that success comes from balance and authenticity. When you thrive, you
+  become unstoppable. Bring your bold ideas and relentless drive, and join us in
+  shaping the digital world. Ready to make an impact?Join #TeamGen.We love
+  collaborating within our teams, which is why we've adopted a hybrid model
+  allowing us to work from the office 2–3 times per week.Our mission is to
+  empower the Customer Success Management team and drive strategic growth
+  through the effective use of Marketing Technology Platforms. By leveraging
+  data insights and fostering a culture of experimentation and data-driven
+  decision-making, we aim to enhance customer communication, improve user
+  retention, and maximize cross-sell and up-sell opportunities for our expansive
+  product portfolio.Goals:Boost Platform Adoption: Increase user adoption of
+  Marketing Technology Platforms.Drive Data Insights: Achieve an increase in
+  customer messaging engagement and identify improvement opportunities.Foster
+  Experimentation: Raise A/B testing adoption across the company and present at
+  various internal and external knowledge sharing sessions and
+  conferences.Objectives:Analyze customer data and the usage of our platforms by
+  internal customers.Work with Jupyter notebooks and experiment with various
+  machine learning models.Troubleshoot potential data issues.Set up A/B testing
+  experiments and guide others in following best practices for
+  experimentation.Showcase new platform features in knowledge-sharing sessions
+  (prepare hackathons, workshops, presentations).Actively seek new opportunities
+  and gaps in our platforms, collaborating with PMs and engineering teams to
+  address them.Assist in coding and setting up In Product Messaging
+  campaigns.Competencies:Experience with A/B testing at a statistical
+  level.Excellent communication skills.Data science experience with statistical
+  analytics.Experience using machine learning models.Proficiency in Python
+  programming for data science.Familiarity with Python/Jupyter Notebooks (or
+  equivalent).Previous experience with Marketing Technologies or Customer
+  Success Management is a plus.Coding experience (HTML, JavaScript, CSS) is
+  a plus.Benefits:Annual bonus scheme.Unlimited PTO (paid time off) and flexible
+  working hours.Opportunity to join a major global tech company listed on the
+  S&P 500.Chance to learn and work with the best in the Digital Security
+  industry.Cafeteria points provided by Benefit Plus (meal plan, pension
+  insurance, travel, free time activities, multisport card, and more).Tuition
+  reimbursement for job-related courses.Learning and Development
+  plan.Sustainable home improvement bonus.Wellness/Fitness Reimbursement
+  Program.Mac/Windows laptop and mobile phone.
+Kontakt: Tetiana Zaiarna
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Junior Python/C++ vývojář
+Firma: 24U s.r.o.
+Lokalita: Praha – Michle
+Detail pozice:
+  Ve společnosti 24U s.r.o. naPraze 4hledáme kolegy na pozicijunior Python/C++
+  vývojářena plný úvazek. Máš zájem být součástí menšího kolektivukodérůa chceš
+  se podílet na vývoji pro zajímavéčeské i zahraniční zákazníky? Jde o práci na
+  projektech z různých odvětví.Budeš pracovat s Apple počítači, iPhony a iPady,
+  Raspberry, Arduinem a vyvíjet a propojovat software s dalším zajímavým
+  hardwarem(barcode scannery, tiskárny štítků, digitální váhy, platební
+  terminály, RFID čtečky, Phidgets, RFID a NFC, Hardwario a jiné).Pokud mášrád
+  svůj klid na práci, alechuť do práce máš, pak právě s tebou se rádi setkáme.
+  Upřednostňujeme dlouhodobou spolupráci.Vyvíjeli jsme např. software pro
+  propojení čteček čárových kódů a mobilní tiskárny, který pomáhá ke
+  spravedlivému výkupu plodin od farmářů v Africe. Dále jsme našim zákazníkům
+  pomohli s mícháním příchutí tabáku, kdy z 25 pump dávkujeme kapalinu
+  s přesností na gramy. Jinde jsme zase našim zákazníkům pomohli s evidencí
+  balíků, které automaticky z několika kamer naráz nafotíme a uložíme do
+  databáze…Junior Python/C++ vývojářIdeální kandidát na tuto pozici je týmový
+  hráč s chutí do práce. Máš-li dobré komunikační schopnosti a chceš se v této
+  oblasti posouvat, pak právě s tebou se rádi setkáme. Upřednostňujeme
+  dlouhodobou spolupráci.Název organizace: 24U s.r.o. - www.24U.czPracoviště:
+  Praha 4 - MichleNástup: ihnedNabízíme:Zajímavou tvůrčí práci na rozmanitých
+  projektech (např. aplikace na Raspberry Pi, rozšiřování modulů pro relační
+  databázi FileMaker,...)Práci na plný pracovní úvazek (po - pá)Možnost časové
+  flexibility po domluvě v případě potřebyDlouhodobou spolupráci
+  v zaměstnaneckém poměruZázemí stabilní společnosti s možností dalšího
+  rozvojePráci s nejnovějšími technologiemiDoučení potřebných znalostíPráci na
+  projektech českých i zahraničních zákazníkůBenefity:Služební MacBook, časem
+  i služební iPhonePravidelné firemní akceSleva na firemní výrobkyPříjemné
+  pracovní prostředí v mladém kolektivuVzdělávací kurzyFinanční příspěvek na
+  sportovní aktivityPodpora profesního vzděláváníProstor pro vlastní
+  inovacePožadujeme:Základní znalost jazyka C++Základní znalost jazyka
+  PythonAktivní přístupOchotu učit se a rozvíjet sám sebeZnalost angličtiny na
+  úrovni čtení technické dokumentaceČím na nás zapůsobíte:Znalostí práce
+  s verzovacím systémem GitZnalostí objektového návrhuZnalostí platformy
+  DockerZkušeností s multiplatformním vývojemZkušeností s výrobou
+  knihovenZnalostí nějakého dalšího programovacího jazyka, například C#, Swift,
+  Objective-CZnalostí práce s LinuxemNáplň práce:Integrace SW a HWAnalýza, návrh
+  a vývojAktualizace stávajících řešeníMísto pracoviště:Praha 4Pokud Tě naše
+  nabídka zaujala, máš rád výzvy a chceš se stát součástí týmu pracujícího na
+  zajímavých tuzemských i zahraničních projektech, zašli nám strukturovaný
+  životopis s krátkým průvodním dopisem o tvých zkušenostech nebo zájmech.Jen
+  vážní zájemci. Hledáme kolegy pro dlouhodobou spolupráci.Vhodné i pro
+  absolventy, se zkušenostmi s výše uvedenými technologiemi.S pozdravem a přáním
+  pěkného dneOndřej Chaloupka24U s.r.o.Telefon : +420 224 910 892web: www.24u.cz
+Kontakt: Ondřej Chaloupka
+Telefon: 224 910 892
+--------------------------------------------------------------------------------
+
+Název pozice: Konzultant GIS
+Firma: VARS BRNO a.s.
+Lokalita: Kroftova 3167/80c, Brno – Žabovřesky
+Detail pozice:
+  Staň se součástí inovativního lídra v oblasti dopravních systémů. Firmy, která
+  už víc než 25 let pomáhá řídit dopravu a spravovat komunikace nejen v Česku.
+  Vytváříme inteligentní dopravní systémy, monitorujeme kvalitu silnic a jsme
+  v čele vývoje nových technologií, díky kterým se efektivně jezdí po silnici,
+  na železnici i na vodě.Aktuálně hledáme nového kolegu/kolegyni na
+  poziciKONZULTANT GIS:Jaká bude tvoje role?Budeš pracovat na GIS projektech
+  a připravovat datové a mapové podklady pro naše informační systémy. Jedná se
+  převážně o geoportály, dispečerské systémy a webové aplikace pro správce
+  silniční sítě. Pracujeme většinou s Esri technologiemi (ArcGIS Enterprise),
+  ale potkáš se i s technologiemi open source.Budeš spolupracovat s vedoucím
+  projektu a s dalšími členy projektového týmu (analytiky a programátory) na
+  realizaci projektů.Budeš v kontaktu s uživateli systémů a aplikací.Zajistíš
+  telefonickou a mailovou podporu zákazníkům.Co budeš pro zvládnutí této role
+  potřebovat?Ukončené vysokoškolské vzdělání v oblasti GISZnalosti Esri
+  technologií (ArcGIS Enterprise)Zkušenosti s databázovými systémy SQL, základní
+  znalosti programování Python či jiné jsou velkou výhodouZnalost práce na
+  serverech v prostředí OS Windows výhodouZnalost MS OfficeOrganizační
+  a komunikační schopnostiZodpovědnost, samostatnost, spolehlivostOchotu se učit
+  a zlepšovatŘidičský průkaz skupiny BCo ti můžeme nabídnout my?Motivující
+  platové ohodnocení a řadu benefitů. Třebao   týden dovolené navíc (celkem 25
+  dní)o   jedinečný program zaměstnaneckých akciío   cafeteriio   neformální
+  teambuildingové akceo   rizikové životní pojištěnío   příspěvek na penzijní
+  připojištěnío   stravenkový systém a dalšíZní to dobře?Kontaktuj naši
+  personalistku Simonu Říhovou a domluvíme se na osobním setkání. Když si
+  plácneme, nastoupit můžeš hned nebo po dohodě.Proč právě k nám?STABILITAV roce
+  2020 jsme oslavili čtvrtstoletí existence. Od roku 2014 jsme součástí globální
+  skupiny VINCI. Máme skvělé zázemí, ale zároveň volné ruce v tom, co chceme
+  dělat.UNIKÁTNÍ PROJEKTYNaše řešení jsou vždy jedinečná. Pracujeme na
+  rozsáhlých projektech a žádný z nich nikdy nebude stejný. Těžké úkoly nás
+  motivují.SMYSLUPLNÁ PRÁCEKaždý nový projekt je výzva, na jejímž konci stojí
+  viditelný výsledek, který zlepšuje dopravu a cestování. Autem, autobusem,
+  vlakem, a dokonce i na lodi.MEZILIDSKÉ VZTAHYJe nás sedmdesát, ale všichni se
+  známe. S vykáním si u nás netykáme, obleky vytahujeme ze skříně jen na
+  oficiální jednání. Naše práce stojí na vzájemné důvěře, respektu
+  a spolupráci.PŘÍJEMNÉ PROSTŘEDÍNesedíme v žádném anonymním office parku, ale
+  ve dvou moderních budovách uprostřed Žabovřesk. A trolejbus nám zastavuje
+  přímo pod okny.BENEFITYPráce není všechno. Díky plovoucí pracovní době si
+  můžeš ráno nebo odpoledne zajít zacvičit, nebo třeba vyzvednout děti ze
+  školky. Jsi zkrátka pánem svého času. Plus si k tomu připočti atraktivní
+  program zaměstnaneckých výhod. Víc ti o nich rádi řekneme osobně.
+Kontakt: Simona Říhová
+Telefon: +420 731 125 663
+--------------------------------------------------------------------------------
+
 Název pozice: PHP developer s pokročilou znalostí Nette
 Firma: TAKTIK International s.r.o. , organizační složka
 Lokalita: Argentinská 1621/36, Praha – Holešovice
@@ -580,134 +758,6 @@ Lokalita: Lokalita nenalezena
 Detail pozice:
   Detail pozice nenalezen
 Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Software engineer C++
-Firma: Edhouse s.r.o.
-Lokalita: Vavrečkova 7074, Zlín
-Detail pozice:
-  Základní informace o poziciLokalita: Olomouc / Uherské Hradiště / Vsetín /
-  ZlínTyp spolupráce: Hlavní pracovní poměrPracovní režim: HybridníNázev pozice:
-  SW engineerCo můžeš očekávat od práce v Edhouse?Budeš se podílet na významných
-  a globálních projektech. A protože se často jedná o projekty zahraničních
-  zákazníků, je nezbytné, abys uměl/a dobře komunikovat anglicky. Jelikož se nám
-  osvědčilo, že ta nejlepší týmová spolupráce se odehrává na pracovišti, budeme
-  tě potřebovat často v kanceláři. Mezi technologie, které nejčastěji používáme
-  patří .NET, C#, C++, WPF, React, Angular, zkušenosti máme i s technologiemi
-  jako jsou například Rust a Python.Být součástí našeho týmu ti dá příležitost
-  pracovat na projektech pro významné tuzemské i zahraniční zákazníky, kterými
-  jsou například Thermo Fisher Scientific, Schneider Electrics, onsemi, NCR
-  Voyix, Glass Service, Tajmac-ZPS a další. U nás se budeš technologicky
-  posouvat a poznáš řadu inspirativních lidí, kteří ti s tím pomohou.Čemu se
-  u nás hlavně věnujeme?Ve své roli budeš vyvíjet software, což zahrnuje vše od
-  analýzy požadavků až po finální implementaci. Zabýváme se vývojem systémového
-  software, dále vývojem desktopových, webových i mobilních aplikací. Jsme
-  specialisté na frontend, backend, UI/UX i cloud včetně DevOps.Co pro tuto
-  práci potřebuješ mít?Znalost jazyka C++. Výhodou je zkušenost s CI/CD,
-  DevOps.Schopnost samostatné práce i týmové spolupráce.Znalost principů
-  softwarového inženýrství.Zkušenosti s agilním vývojem software.Řidičské
-  oprávnění skupiny B, protože čas od času cestujeme za zákazníky.Komunikační
-  schopnosti v angličtině na úrovni B2 nebo vyšší.Co ti můžeme v Edhouse
-  nabídnout:Práci na dlouhodobých a inovativních projektech z oblasti vědy
-  a techniky.Neformální pracovní prostředí, kde klademe důraz na work-life
-  balance.Přátelský kolektiv v dynamicky se rozvíjejícím software house.Možnost
-  profesního růstu a odborného vzdělávání.Flexibilní pracovní dobu a občasnou
-  možnost práce na dálku.Finanční, vzdělávací a volnočasové benefity.
-Kontakt: Pavel Vanča
-Telefon: +420 730 539 649
---------------------------------------------------------------------------------
-
-Název pozice: Analytik | Tester pro stavební software
-Firma: Dlubal Software s.r.o.
-Lokalita: Anglická 414/28, Praha – Vinohrady
-Detail pozice:
-  Navrhováni a výpočty konstrukcí ve stavebnictví jsou na vzestupu a našich
-  klientů přibývá. Abychom jim mohli dodávat stále lepší a lepší řešení, hledáme
-  teď do týmu nové kolegy. Pozice je vhodná pro kandidáty s praktickými
-  zkušenostmi.Baví Vás práce se softwarem?Máte zkušenosti s návrhy stavebních
-  konstrukcí?Chcete se podílet na vývoji jedinečného softwarového
-  projektu?Připojte se k našemu vývojářskému týmu!Co od vás potřebujeme?Vzdělání
-  technického směru (ideálně stavebnictví)Orientace v normách na navrhování
-  konstrukcí.Znalost některého CAD nebo MKP programu pro analýzu konstrukcí
-  (např. REVIT, Tekla, RFEM, RSTAB, SCIA Engineer, Ansys a pod.).Znalost práce
-  s databázemiLogické a analytické myšlení.Schopnost práce v týmu (metodika
-  SCRUM)Komunikace v češtině i v angličtině.Co oceníme navíc (ale není
-  podmínkou)?Praxe s navrhováním konstrukcí.Zkušenosti s nástroji na automatické
-  testování (Squish, Ranorex, apod.) a s QA testováním.Zkušenosti s prací
-  v agilním prostředí, dobrou znalost agilních principů a metod.Praktické
-  zkušenosti s technickými výpočty včetně metody konečných prvků.Zkušenosti
-  s programováním v různých jazycích.Dobrá organizace práce a schopnost
-  dotáhnout věci do konce.Pozitivní přístup, odvahu zkoušet nové věci,
-  experimentovat i chybovat.Co u nás budete mít na starosti?Práce ve vývojovém
-  týmu.Ověřování funkčnosti programů před vydáním verze pro zákazníky.Testování
-  programů, vytváření testovacích modelů.Vývoj, analýzu a testování
-  rozhraní.Příprava automatických testů.Návrhy algoritmů pro posudky
-  konstrukcí.Spolupráce s dalšími vývojáři, analytiky, testery a vedoucími
-  projektů.Proč do toho jít s námi?Budete pracovat s nejnovějšími technologiemi
-  a přispějete k řešení náročných projektů, které mají významný dopad na světové
-  stavebnictví. 💻Získáte pracovní svobodu - máme pružnou pracovní dobu a home
-  office dva dny v týdnu. 🛋️Nabízíme velmi dobré finanční ohodnocení, každoroční
-  revize mzdy a kvartální bonusy. 💳Sídlíme v moderních kancelářích (ne open-
-  space) s dobrou dopravní dostupností (vlak, autobus, tramvaj, metro) v centru
-  Prahy. 🏢A máme samozřejmě i klasické benefity, jako je stravenkový paušál,
-  sick days, výhledově 5 týdnů dovolené, Multisportka, příspěvek na vzdělání
-  a profesní růst, firemní akce a spoustu dalších výhod. 👌Zaujalo? Výborně!
-  Dejte nám o sobě vědět, připojte CV a pár řádků o sobě. Těšíme se na
-  Vás!Termín nástupuIhned resp. dle dohodyRádi bychom poděkovali všem zájemcům
-  o tuto pozici a srdečně tě zveme k zaslání tvého životopisu a motivačního
-  dopisu. Pokud tě tato pracovní nabídka zaujala a chceš se stát součástí našeho
-  týmu, neváhej nás kontaktovat. Jsme připraveni ti poskytnout další informace
-  a odpovědět na tvé dotazy. Těšíme se na tvojí odpověď a budeme se snažit ti co
-  nejdříve zpětně zareagovat.
-Kontakt: Younes El Frem
-Telefon: +420 227 203 320
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: FULLSTACK PYTHON DEVELOPER PRO AI
-Firma: VLTAVA LABE MEDIA a.s.
-Lokalita: U Trezorky 921/2, Praha – Jinonice
-Detail pozice:
-  DO NAŠEHO MENŠÍHO AI TÝMU HLEDÁME ŠIKOVNÉHO SENIORNÍHO PYTHON VÝVOJ, který již
-  má zkušenost s LLM modely, umí pracovat samostatně i v týmu a rád/a by se
-  podílel/a na vývoji naší interní AI aplikace.Pokud Tě zajímá vývoj aplikace,
-  která našim kolegům umožní používat nejnovější AI nástroje a zásadně jim tak
-  usnadní jejich práci díky využití AI, rádi se s Tebou potkáme.Co Tě u nás
-  čeká:Vývoj interní AI aplikace – frontend i backendPřepis původní aplikace do
-  nového řešení a její následný rozvojImplementace nových funkcí a nástrojů dle
-  požadavků AI týmu (primárně pro redakce)Napojování systémů a propojování
-  různých služeb přes APIAgilní vývoj v menším týmu se zaměřením na využití
-  AIPři své práci budeš potřebovat:Seniorní zkušenost v jazyce PythonPředchozí
-  praxi s některým z frameworků (FastAPI, Flask…)Perfektní znalost relačních
-  i NoSQL databází (PostgreSQL, Mongo…)Zkušenost s implementací také frontend
-  část aplikace (React, Tailwind…)Schopnost vytvářet uživatelsky přívětivá
-  a intuitivní rozhraní (UI/UX)Zkušenost s napojováním API služeb různých LLM
-  a dalších služebPorozumění fungování a vývoji robustních aplikacíUmět
-  navrhnout a implementovat aplikaci dle zadání od nuly až do produkčního
-  nasazeníMít základní DevOps znalosti (Git, Docker, webserver, CI/CD)Zachování
-  chladné hlavy při řešení různých technických situacíBýt iniciativní a přispět
-  svým názorem ke směřování projektuRychle se učit nové věciSamostatnost, ale
-  i schopnost efektivně komunikovat s kolegyPlusové body:Zkušenost s vývojem
-  AI/LLM aplikacíZnalost fungování jazykových modelů (zejména OpenAI
-  a Anthropic)Zkušenosti s mediálním prostředím/obsahem a práce s redakcemiCo na
-  oplátku nabízíme my?Podílení se na vytváření inovativního AI produktu, který
-  tvoříme od základůMožnost ovlivnit technické i produktové směřování
-  aplikaceNadále se vzdělávat a rozvíjet své znalosti v oblasti AITým plný
-  pohodových kolegů :)Spolupráci na pracovní smlouvu nebo na IČOMožnost práce
-  z domovaÚvodní zaškolení a proces průběžného vzděláváníSlužební mobil
-  a počítač20 dní dovolené, 5 dní Relax Days, 4 dny zdravotního volna
-  a narozeninový denPříspěvek na stravování a na penzijní spoření+ další
-  tajnosti, které si necháme na osobní setkáníDej nám o sobě vědět.
-Kontakt: Monika Lustigová
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
