@@ -1,3 +1,144 @@
+Název pozice: Application Engineer
+Firma: Advantech Czech s.r.o.
+Lokalita: Lidická 2006/26, Brno – Černá Pole
+Detail pozice:
+  Chceš pracovat s nejnovějšími technologiemi a řešit komplexní problémy
+  v oblasti síťování? Baví tě Linux a nebojíš se anglicky komunikovat s klienty?
+  Pak hledáme právě tebe!Co tě čeká?Samostatná práce na svěřených úkolech
+  s důrazem na analýzu a návrh optimálních síťových řešení.Kritické myšlení
+  a hledání nových přístupů při řešení problémů.Spolupráce s vývojáři a dalšími
+  kolegy v mezinárodním prostředí.Co od tebe očekáváme?Odpovídající vzdělání
+  v oblasti IT nebo prokazatelnou praxi v síťových technologiích.Zkušenosti
+  s administrací OS Linux (syslog, shell skripty, nftables).Praktické zkušenosti
+  s nastavováním routování (VLAN, VRF, OSPF, RIP, NHRP, BGP) a tunelů (GRE,
+  IPsec, OpenVPN).Znalost principů fungování počítačových sítí na úrovni CCNA
+  (certifikace není nutná).Zkušenosti s UNIX/Linux systémy (výhodou je znalost
+  BusyBox).Základní znalost Pythonu a Bash.Komunikativní angličtina (písemně
+  i ústně).Ochotu se učit novým věcem a neustále se rozvíjet.Čím se budeš
+  zabývat?Vývojem a úpravou skriptů pro automatizaci úloh.Podporou zákazníků,
+  řešením problémů a sběrem dat pro vývojáře.Replikací problémů v testovacím
+  prostředí.Vylepšováním dokumentace k produktům.Přípravou demo řešeníNaoplátku
+  nabízímeProstor učit se novým věcem od zkušených kolegůPráci na projektech
+  s mezinárodní účastíMožnost odborného, jazykového i osobnostního
+  vzděláváníDalší zaměstnanecké benefity (notebook a telefon i pro soukromé
+  využití, Multisport kartu, stravenkový paušál, firemní akce, 3 dny sick day,
+  25 dní dovolené, možný občasný homeoffice)pracoviště v Brně nebo v Ústí nad
+  Orlicí dle preferencí
+Kontakt: Dana Šedová
+Telefon: 730 168 045
+--------------------------------------------------------------------------------
+
+Název pozice: Vývojáře technologického informačního systému
+Firma: Shimano Czech Republic, s.r.o.
+Lokalita: Dětmarovická 403/4, Karviná – Staré Město
+Detail pozice:
+  Baví Vás práce s daty?Pokud ano, hledáme právě Vás!Společnost Shimano Czech
+  Republic s.r.o., světová jednička v oboru cyklistiky hledá
+  kandidáta/kandidátku na pozici:Vývojáře technologického informačního systémuCo
+  budete na pozici dělat?• spravovat a vyvíjet nové aplikace a komponenty našeho
+  technologického informačního systému• pracovat s databázemi• zabývat se sběrem
+  a analýzou dat z výrobních strojů a procesů• pracovat na firemních
+  projektechCo od uchazečů očekáváme?• pokročilou znalost programování
+  v jazycích JavaScript,PHP• základní znalost programování v jazycích Python,
+  C/C++• základní ovládání technologií DHTMLX• pokročilá znalost Oracle (PL/SQL
+  jazyk)• základní znalost MySQL• základní znalost systémů Linux, Windows•
+  základy v oblasti bezpečnosti sítí, serverů a webových aplikací• Aj na
+  komunikativní úrovní, především schopnost porozumět technickým textůmNa
+  oplátku Vám nabízíme• pololetní bonusy• prostor pro uplatňování inovačních
+  aktivit• pravidelná odborná školení• 1 týden dovolené navíc• výuku Aj přímo na
+  pracovišti• výborné obědy už od 1 Kč• zvýhodněnou cenu na jízdní kola• hlavní
+  pracovní poměr na dobu určitou s možností prodloužení na dobu neurčitou
+Kontakt: Natálie Lubojacká
+Telefon: 597 441 202
+--------------------------------------------------------------------------------
+
+Název pozice: Python programátor backendu webů
+Firma: Seznam.cz, a.s.
+Lokalita: Palachovo náměstí 797/4, Brno – Starý Lískovec
+Detail pozice:
+  Hledáte příležitost podílet se na vývoji backendu pro nejnavštěvovanější weby
+  v Česku, jako jsou SeznamZpravy.cz, Novinky.cz nebo Sport.cz, které oslovují
+  miliony uživatelů denně? Pojďte s námi stavět moderní platformu na špičkových
+  technologiích! To vše inhouse běžící na vlastním cloudu a ve vlastních
+  datových centrech? Máte velmi dobrou znalost pythonu a komerční praxi? Možná
+  hledáme právě vás a možná hledáte vy právě nás.Co vás čekáVývoj škálovatelných
+  aplikací a optimalizace dotazů do databáze budou vaší hlavní náplní práce.
+  Vyvíjímebackend pro seznamácké obsahové službyjako jsouSeznamZprávy.cz,
+  Novinky.cz nebo Sport.cz, automatizujeme vývojové procesy a monitorujeme
+  běžící služby.Pro automatizované nasazování a efektivní škálování systémů
+  využívámeKubernetes, Gitlab CI/CD a ArgoCD.Hybridní modulární amicroservice
+  architektura služeb a FastAPIjako jejich kostra.Optimalizace databází pro
+  vysokou zátěž.Používáme mnoho moderních technologií (FastAPI, MongoDB,
+  Kubernetes, Prometheus, Grafana...).Jsme otevřeni dalším zajímavým inovacím
+  a naše technologické zázemí rádi posouváme dále podle celosvětových
+  trendů.Máte možnost ovlivňovat výsledný produkt. Při procesu vývoje nových
+  funkcí jsou řešení konzultována s vývojáři.V případě zájmu možnost podílet se
+  na rozvoji nejpokročilejšíhoCMSpro obsahové weby na českém trhu (JavaScript,
+  React).U toho se naučíteJak provozovat služby v rušném provozu s vysokou
+  dostupností.Moderní vývojové postupy a práci s nejnovějšími nástroji (GitHub
+  Copilot, GitLab CI/CD, týmové code reviews...).Pokročilé techniky pro
+  automatizaci, optimalizaci výkonu a škálovatelnost systémů.Best practices pro
+  vývoj softwaru a spolupráci v týmu.Koho hledámeNadšeného inovátora, který se
+  chce stále učit a rozvíjet.Vývojáře s alespoň2letou komerční praxía velmi
+  dobrou znalostí Pythonu.Zkušenost s MongoDB případně jinými dokumentovými
+  databázemi, FastAPI nebo jiným asynchronním frameworkem, Dockerem, Kubernetes
+  a CI/CD nástroji (GitLab, ArgoCD) jsou výhodou, ale rádi vás s nimi
+  seznámíme.Týmového hráče, který rád spolupracuje a dotahuje věci do konce.Proč
+  se k nám přidatPracujeme na projektech s opravdovým dopadem, tvoříme platformu
+  pro nejnavštěvovanější webové stránky českého internetu, která je vyvíjena
+  inhouse a běží na našem cloudu ve vlastních datových centrech.Nabízíme
+  flexibilní pracovní dobu a možnost home office až 3 dny v týdnu po
+  zaškolení.Jsme přátelský tým, kde se budeš cítit jako doma, záleží nám na
+  dobré atmosféře.Zvolte si svou techniku: Mac, Linux, Windows nebo vlastní
+  zařízení. Výběr je zcela na vás!Zaujala vás tato nabídka? Připojte se
+  a podílejte se s námi na moderním řešení pro web!
+Kontakt: Markéta Maryášová
+Telefon: +420 724 443 985
+--------------------------------------------------------------------------------
+
+Název pozice: Název nenalezen
+Firma: Firma nenalezena
+Lokalita: Lokalita nenalezena
+Detail pozice:
+  Detail pozice nenalezen
+Kontakt: Kontaktní osoba nenalezena
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: C++ programátor - dlouhodobá spolupráce na celosvětovém produktu
+Firma: Compelson s.r.o.
+Lokalita: Jankovcova 1569/2c, Praha – Holešovice
+Detail pozice:
+  Proč se k nám přidat?Nabízíme stabilní práci na tak dlouho, jak dlouho budeš
+  chtít zůstatJsme stabilní firma na trhu od roku 1991Jsme parta lidí, kterou
+  baví to co dělajíTo, co děláme, má hlubší smyslTvoříme jedinečné produkty,
+  které pomáhají odhalovat zločinceNaše produkty se používají na celém
+  světěPoužíváme nejlepší hardware, software a cloudové službyZajistíme tvůj
+  odborný růst, poskytujeme odborné konference, spolupracujeme
+  s univerzitamiJsme přímo centrála s core vývojem, ne pobočka, která programuje
+  vedlejší věciMáme flexibilní pracovní dobuNové moderní prostory s luxusním
+  výhledem na VltavuDobře vydělávámeNa čem u nás můžeš rozvíjet svůj
+  talent?U nás ani nezakrníš, ani se nebudeš nudit, vývoj u nás tě bude bavit.
+  Náš vývoj je totiž neskutečně rozmanitý a navíc můžeš přecházet mezi různými
+  projekty:Programování pokročilých algoritmůProgramování cool UI, které
+  uživatelé milujíPokročilá grafika - zobrazování grafů, souvislostí mezi
+  důkazyProlamování bezpečnosti telefonů - low level programování, komunikační
+  protokolyAnalýza dat dronůLow-level připojování do cloudových služeb,
+  prolamováníVýzkum v oblasti IoT, analýza bezpečnosti, prolamováníVýzkum
+  a vývoj v oblasti Deep Learning, rozpoznání obrazu, videa, porozumění textu,
+  vyhodnocování souvislostí, důkazů a dalšíHledání a analýza malware
+  a spywareImplementace file-systémů na low-level úrovniPráce na našem vlastním
+  "Total Commanderu"Spolupráce přímo na konkrétních případech s vyšetřovateli
+  doma i ve světěMáme k dispozici obrovské množství všech možných mobilů ke
+  zkoumáníJsme umělciU nás neděláme zakázkový vývoj jako většina softwarových
+  firem, ale pracujeme jen na svých produktech, na zadání, které si sestavujeme
+  sami a v termínech které si určujeme my. Zkrátka do naší práce nám uživatelé
+  nemluví.Pojďme se poznatPokud se k nám chceš přidat, pošli nám své CV a my se
+  s tebou spojíme.Těšíme se, až tě osobně poznáme!
+Kontakt: Barbora Girgleová
+Telefon: +420 601 002 324
+--------------------------------------------------------------------------------
+
 Název pozice: Backend Python a Go programátor
 Firma: Seznam.cz, a.s.
 Lokalita: Praha
@@ -486,15 +627,6 @@ Kontakt: Michaela Svrčinová
 Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
 Název pozice: DATA ENGINEER - objevuj s námi svět Big Data!
 Firma: ADASTRA, s.r.o.
 Lokalita: Karolinská 706/3, Praha – Karlín
@@ -714,42 +846,6 @@ Detail pozice:
   a zaslání referencí. Tým Quantasoft
 Kontakt: Lucie Trampotová
 Telefon: +420 607 184 470
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
 --------------------------------------------------------------------------------
 
 Název pozice: Název nenalezen
