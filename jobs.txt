@@ -1,3 +1,151 @@
+Název pozice: Student - Automated Tests Developer (f/m/d)
+Firma: Deutsche Börse Group
+Lokalita: Sokolovská 662/136b, Praha – Karlín
+Detail pozice:
+  Your area of workDeutsche Börse Group is one of the largest exchange
+  organizations worldwide. As a financial marketplace organizer, the company
+  provides a portfolio of services covering the entire process chain: securities
+  and derivatives trading and clearing, netting and transaction settlement, risk
+  management, custodian services and provision of market information.We are
+  looking for student who will help us with our automated test development in
+  the Clearstream Fund Services development team (CFS). The aim is to help
+  support of automated test development on the wide portfolio of application
+  within CFS. Our automated test are written using Selenium and/or Playwright
+  framework using Java and/or Javascript. Out applications are written in Java
+  with either Angular or React frontend over SQL database. In order to improve
+  application stability in test environments and to reduce the need of
+  regression testing, we need automated test engineer to help us to cover the
+  application via regression tests.For development, we use Continuous
+  Integration/Delivery tools (Jira, GitHub, Jenkins, SonarQube, Maven,
+  Artifactory, IntelliJ)Main Tasks & ResponsibilitiesWorking in international
+  multi-location environmentDesign and development of the new GUI and backend
+  Automated tests for our existing applicationsMust be a responsible and
+  reliable team player with good communication skillsInterested in working in
+  international teams performing challenging and diversified tasks? If so, we
+  look forward to receiving your application.Your profilePractical experience
+  with development of automated tests (ideally using Playwright framework)
+  Practical experience with Java Experience with GUI test framework(s)
+  Experience with Spring framework is advantage Experience with SQL databases is
+  a plusThe following interpersonal skills are essentialWillingness to learn
+  also the business purpose of the application tested The ability to identify
+  problems and propose solutions English is mandatory and this includes good
+  English writing skills An interest in financial world (Mutual / Hedge Funds)
+  is appreciatedOfferHybrid Work and Flexible working hoursWork from abroad - 12
+  days of remote work from EU countries per yearPension fund contribution - 3%
+  of your gross salary (5% after 5 years with us)Health & Wellbeing - fully
+  covered Multisport card, life & accident insurance, 100% salary contribution
+  during sick leave (up to 56 days)25 vacation daysMobility - fully covered
+  public transport in Prague & free parkingFlexible Benefit Account (Pluxee) -
+  1200 per monthGroup Share Plan - discount on company sharesPersonal
+  Development - annual budget of €690 .. and way more!
+Kontakt: Deutsche Börse
+Telefon: Telefon nenalezen
+--------------------------------------------------------------------------------
+
+Název pozice: Software engineer C++
+Firma: Edhouse s.r.o.
+Lokalita: Vavrečkova 7074, Zlín
+Detail pozice:
+  Základní informace o poziciLokalita: Olomouc / Uherské Hradiště / Vsetín /
+  ZlínTyp spolupráce: Hlavní pracovní poměrPracovní režim: HybridníNázev pozice:
+  SW engineerCo můžeš očekávat od práce v Edhouse?Budeš se podílet na významných
+  a globálních projektech. A protože se často jedná o projekty zahraničních
+  zákazníků, je nezbytné, abys uměl/a dobře komunikovat anglicky. Jelikož se nám
+  osvědčilo, že ta nejlepší týmová spolupráce se odehrává na pracovišti, budeme
+  tě potřebovat často v kanceláři. Mezi technologie, které nejčastěji používáme
+  patří .NET, C#, C++, WPF, React, Angular, zkušenosti máme i s technologiemi
+  jako jsou například Rust a Python.Být součástí našeho týmu ti dá příležitost
+  pracovat na projektech pro významné tuzemské i zahraniční zákazníky, kterými
+  jsou například Thermo Fisher Scientific, Schneider Electrics, onsemi, NCR
+  Voyix, Glass Service, Tajmac-ZPS a další. U nás se budeš technologicky
+  posouvat a poznáš řadu inspirativních lidí, kteří ti s tím pomohou.Čemu se
+  u nás hlavně věnujeme?Ve své roli budeš vyvíjet software, což zahrnuje vše od
+  analýzy požadavků až po finální implementaci. Zabýváme se vývojem systémového
+  software, dále vývojem desktopových, webových i mobilních aplikací. Jsme
+  specialisté na frontend, backend, UI/UX i cloud včetně DevOps.Co pro tuto
+  práci potřebuješ mít?Znalost jazyka C++. Výhodou je zkušenost s CI/CD,
+  DevOps.Schopnost samostatné práce i týmové spolupráce.Znalost principů
+  softwarového inženýrství.Zkušenosti s agilním vývojem software.Řidičské
+  oprávnění skupiny B, protože čas od času cestujeme za zákazníky.Komunikační
+  schopnosti v angličtině na úrovni B2 nebo vyšší.Co ti můžeme v Edhouse
+  nabídnout:Práci na dlouhodobých a inovativních projektech z oblasti vědy
+  a techniky.Neformální pracovní prostředí, kde klademe důraz na work-life
+  balance.Přátelský kolektiv v dynamicky se rozvíjejícím software house.Možnost
+  profesního růstu a odborného vzdělávání.Flexibilní pracovní dobu a občasnou
+  možnost práce na dálku.Finanční, vzdělávací a volnočasové benefity.
+Kontakt: Pavel Vanča
+Telefon: +420 730 539 649
+--------------------------------------------------------------------------------
+
+Název pozice: Analytik | Tester pro stavební software
+Firma: Dlubal Software s.r.o.
+Lokalita: Anglická 414/28, Praha – Vinohrady
+Detail pozice:
+  Navrhováni a výpočty konstrukcí ve stavebnictví jsou na vzestupu a našich
+  klientů přibývá. Abychom jim mohli dodávat stále lepší a lepší řešení, hledáme
+  teď do týmu nové kolegy. Pozice je vhodná pro kandidáty s praktickými
+  zkušenostmi.Baví Vás práce se softwarem?Máte zkušenosti s návrhy stavebních
+  konstrukcí?Chcete se podílet na vývoji jedinečného softwarového
+  projektu?Připojte se k našemu vývojářskému týmu!Co od vás potřebujeme?Vzdělání
+  technického směru (ideálně stavebnictví)Orientace v normách na navrhování
+  konstrukcí.Znalost některého CAD nebo MKP programu pro analýzu konstrukcí
+  (např. REVIT, Tekla, RFEM, RSTAB, SCIA Engineer, Ansys a pod.).Znalost práce
+  s databázemiLogické a analytické myšlení.Schopnost práce v týmu (metodika
+  SCRUM)Komunikace v češtině i v angličtině.Co oceníme navíc (ale není
+  podmínkou)?Praxe s navrhováním konstrukcí.Zkušenosti s nástroji na automatické
+  testování (Squish, Ranorex, apod.) a s QA testováním.Zkušenosti s prací
+  v agilním prostředí, dobrou znalost agilních principů a metod.Praktické
+  zkušenosti s technickými výpočty včetně metody konečných prvků.Zkušenosti
+  s programováním v různých jazycích.Dobrá organizace práce a schopnost
+  dotáhnout věci do konce.Pozitivní přístup, odvahu zkoušet nové věci,
+  experimentovat i chybovat.Co u nás budete mít na starosti?Práce ve vývojovém
+  týmu.Ověřování funkčnosti programů před vydáním verze pro zákazníky.Testování
+  programů, vytváření testovacích modelů.Vývoj, analýzu a testování
+  rozhraní.Příprava automatických testů.Návrhy algoritmů pro posudky
+  konstrukcí.Spolupráce s dalšími vývojáři, analytiky, testery a vedoucími
+  projektů.Proč do toho jít s námi?Budete pracovat s nejnovějšími technologiemi
+  a přispějete k řešení náročných projektů, které mají významný dopad na světové
+  stavebnictví. 💻Získáte pracovní svobodu - máme pružnou pracovní dobu a home
+  office dva dny v týdnu. 🛋️Nabízíme velmi dobré finanční ohodnocení, každoroční
+  revize mzdy a kvartální bonusy. 💳Sídlíme v moderních kancelářích (ne open-
+  space) s dobrou dopravní dostupností (vlak, autobus, tramvaj, metro) v centru
+  Prahy. 🏢A máme samozřejmě i klasické benefity, jako je stravenkový paušál,
+  sick days, výhledově 5 týdnů dovolené, Multisportka, příspěvek na vzdělání
+  a profesní růst, firemní akce a spoustu dalších výhod. 👌Zaujalo? Výborně!
+  Dejte nám o sobě vědět, připojte CV a pár řádků o sobě. Těšíme se na
+  Vás!Termín nástupuIhned resp. dle dohodyRádi bychom poděkovali všem zájemcům
+  o tuto pozici a srdečně tě zveme k zaslání tvého životopisu a motivačního
+  dopisu. Pokud tě tato pracovní nabídka zaujala a chceš se stát součástí našeho
+  týmu, neváhej nás kontaktovat. Jsme připraveni ti poskytnout další informace
+  a odpovědět na tvé dotazy. Těšíme se na tvojí odpověď a budeme se snažit ti co
+  nejdříve zpětně zareagovat.
+Kontakt: Younes El Frem
+Telefon: +420 227 203 320
+--------------------------------------------------------------------------------
+
+Název pozice: Junior QA Engineer (absolvent VŠ) (8120)
+Firma: ITjobs, s.r.o.
+Lokalita: Brno
+Detail pozice:
+  Co vás čekáNa této pozici budete:- testovat nové funkcionality, odhalovat
+  bugy- pomocí nástroje Cypress navrhovat a automatizovat testovací scénáře
+  a spravovat je v systému SpiraTest.- zapojovat se do designu nových
+  funkcionalit- aktivně spolupracovat se zbytkem týmuJaké znalosti a dovednosti
+  byste měli mítHledáme motivovaného testera, který:- vystudoval VŠ (stačí Bc.)
+  se zaměřením na informatiku a během studia se již setkal s testováním SW a má
+  v této oblasti prokazatelné znalosti- zná Python i Linux- má alespoň základní
+  znalosti sítí- se dokáže bez problémů domluvit anglicky (pro komunikaci uvnitř
+  mezinárodní společnosti)- se chce neustále vzdělávat a posouvatCo vám můžeme
+  nabídnout- jedná se o zaměstnanecký pracovní poměr, plný úvazek- práce
+  v mezinárodní progresivní společnosti s přátelským prostředím a zájmem
+  o rozvoj a spokojenost zaměstnanců- benefity: týden dovolené navíc, flexibilní
+  pracovní doba, možnost práce z domu, možnost vzdělávání, kurzy angličtiny,
+  příspěvek na stravování, Multisport karta, možnost odkupu akcií společnosti,
+  roční bonus v minimální hodnotě 5% ročního platu
+Kontakt: Pavel Plíšek
+Telefon: +420 603 328 592
+--------------------------------------------------------------------------------
+
 Název pozice: Application Engineer
 Firma: Advantech Czech s.r.o.
 Lokalita: Lidická 2006/26, Brno – Černá Pole
@@ -767,85 +915,6 @@ Detail pozice:
   Detail pozice nenalezen
 Kontakt: Kontaktní osoba nenalezena
 Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Název nenalezen
-Firma: Firma nenalezena
-Lokalita: Lokalita nenalezena
-Detail pozice:
-  Detail pozice nenalezen
-Kontakt: Kontaktní osoba nenalezena
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: APLIKAČNÍ VÝVOJÁŘ - PYTHON a C++ (pro ABSOLVENTY VŠ IT)
-Firma: Seyfor, a. s.
-Lokalita: Okružní 871/3a, Brno – Lesná
-Detail pozice:
-  "Přidejte se k nám, do týmu, který mění svět HR řešení"Jsme hrdí tvůrci
-  mzdového a personálního SW Vema, který se stal nejžádanějším HR řešením na
-  trhu v České republice a na Slovensku. S více jak 8000 spokojenými klienty
-  přinášíme efektivitu a úspory do každodenní práce tisíců účetních
-  a personalistů.Jak vypadá náš tým?Hledáme posilu do našeho 6-členného
-  vývojářského týmu, který se specializuje na vývoj modulů v oblasti řízení
-  lidských zdrojů. U nás budeš pracovat s kolegy, kteří nejenže sdílejí své
-  znalosti, ale jsou také ochotní Ti pomoci a podpoří Tvé nápady.Čím se budeš
-  jako Aplikační vývojář zabývat?Programování byznys logikymoderních portálových
-  aplikací na základě dodané analýzyBudete se také podílet navývoji zakázkových
-  aplikacídle specifik zákazníkaJak si Tě představujeme?Jsi absolvent VŠ v oboru
-  IT (ideálně z FI MU/FIT VUT)máš už nějakou předchozí praxi v programování
-  v Pythonu (komerční projekty)Zkušenosti s MS WindowsMáš znalosti OOPSchopnost
-  pracovat s relačními databázemi a dotahovat věci do konce6 důvodů proč jít
-  k nám aneb co Ti chceme nabídnout?Zajímavé finanční ohodnoceníNaditý balík
-  benefitů:Neomezená dovolená, 3 sick days, max. stravovací paušál, kafeterie
-  Benefit plus, tankovací karta, partnerské slevy a řada dalších výhod - více
-  na: https://career.seyfor.com/cs-cz/benefityPružná pracovní dobaObčasný home
-  office, po zkušební době možnost mít HO pravidelněProstor pro vlastní
-  rozvojStabilita silného hráče na českém a slovenském trhu:Úspěšně jsme
-  dokončili stovky projektů a máme za sebou desítky let praxe nejen v ČR, ale
-  i v SK. Zároveň u nás najdete pohodový kolektiv s minimální fluktuací.Přidejte
-  se k nám a buďte součástí inovativního týmu!Na nového kolegu/kolegyni se
-  těšíme na Okružní 3a v Brně – Lesná.Více informací o nás najdete na našem webu
-  www.vema.czVíce informací o IT holdingu jehož jsme součástí: www.seyfor.com
-Kontakt: Marcela Slováková
-Telefon: Telefon nenalezen
---------------------------------------------------------------------------------
-
-Název pozice: Quantasoft hledá full stack C# programátora
-Firma: Quantasoft, s.r.o.
-Lokalita: Pod Hájkem 406/1a, Praha – Libeň
-Detail pozice:
-  JsmeQuantasoft, dceřinná společnost LPP, pracujeme na projektech, ke kterým se
-  běžně programátoři nedostanou, především v oblasti počítačového vidění,
-  neuronových sítí a umělé inteligence; biometrických a surveillance systémech;
-  integraci se zákaznickými systémy.Jsme startup zaměřený na umělou inteligenci
-  a její využití v reálném životě. Jsme parta mladých lidí, kteří se nebojí
-  výzev a inovativních projektů! Nyní hledáme programátora na oblast
-  počítačového vidění, neuronových sítí, umělé inteligence, biometrických
-  a surveillance systémů.Předpoklady:Profesionální přístup.Odpovědnost.Ochota
-  učit se nové a nejmodernější technologie.Psaní čistého kódu.Požadované
-  znalosti:C#, .NET 6+WPF/XAML, MVVM (Model-View-ViewModel)Implementace REST
-  API/gRPC, Postman a Unit testyKomunikace UI přes API a messaging, zejména
-  REST/gRPC a RabbitMQ/SignalRMSSQL, PostgreSQL s použitím ORMZnalosti
-  výhodou:C++React.JSMaui UI FrameworkDockerAzure DevOpsCo můžeme nabídnout:5.
-  týden dovolené, Multisport kartu, příspěvek na stravování.Práci na HPP
-  s místem výkonu práce Praha Palmovka.Flexibilní pracovní dobu s možností
-  občasného home office.Velice zajímavou práci na biometrických a surveillance
-  projektech.Bohaté technologické zázemí a možnosti.Zodpovědnou práci a dobré
-  finanční ohodnocení.Přátelský kolektiv s nadšením pro kvalitně odvedenou
-  práci.V případě zájmu prosíme o zaslání Vašeho strukturovaného životopisu
-  a zaslání referencí. Tým Quantasoft
-Kontakt: Lucie Trampotová
-Telefon: +420 607 184 470
 --------------------------------------------------------------------------------
 
 Název pozice: Název nenalezen
