@@ -16,7 +16,7 @@ Tento nástroj je určen pro automatické získávání pracovních nabídek pro
 - Ukládání dat do čitelného formátu
 - Ošetření chybových stavů a logování
 
-## Požadavky
+## Requirements
 
 ```
 requests
@@ -89,11 +89,9 @@ Pokud chcete přispět k vývoji, postupujte následovně:
 
 ## Licence
 
-[Doplňte vaši licenci]
 
 ## Autor
-
-[Vaše jméno/kontakt]
+Lucie,Zdeněk,Jirka,Lukas,Petr
 
 ## Poznámky
 
