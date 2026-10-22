@@ -1577739,3 +1577739,1999 @@ Telefon: 597 441 202
 
 📞 Telefon: Telefon nenalezen
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 🖥️ Vývojář/ka aplikací – nebojíš se dál učit?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: ZLKL, s. r. o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Je vývoj aplikací tvým koníčkem?Výzvy pro tebe nejsou překážkou?Neznáš všechny
+  technologie a jazyky?Nevadí! Pak čti dál! Nejsme vývojová společnost, ale
+  strojírenská firma s vlastním vývojovým oddělením. Naše projekty jsou
+  různorodé, od napojování systémů s unikátními protokoly, až po komplexní
+  systémy pro správu dat a výstupy z nich. Připoj se k nám a staň se součástí
+  týmu, kde je kreativita nejen vítaná, ale je základem našeho každodenního
+  snažení.Co od tebe očekáváme?Že máš za sebou alespoň základní projekty (domácí
+  bastlení s Arduinem, vlastní webové stránky apod.), které ukazují tvé
+  dovednosti a vášeň pro obor.Schopnost pracovat samostatně a komunikovat
+  s týmemNadšení učit se něco nového a zájem o nové technologieZkušenost
+  s vývojem desktopových, webových aj. aplikací (například v jazycích PHP,
+  JavaScript, C++, Python)Co ti můžeme nabídnout?Podporu při zaučení/zaškolení,
+  angažovaného nadřízenéhoProstředí, kde je vaše kreativita nejen ceněna, ale je
+  základem pro inovace.Velmi přívětivý kolektivRůznorodost projektů (jako
+  například Integrace systému zakladače plechů s Helios INUVIO přes Node-RED
+  a OPC UA, Optimalizace pracovních procesů přes Helios INUVIO, Vývoj systému
+  pro monitoring teplot s využitím MQTT a další)Motivační plán odměn vázaný na
+  tvé výsledkyTechnologie, se kterými se setkáš a nesmí tě zastavitPHP,
+  MySQL/MariaDB, MS SQL, HTML, CSS, Javascript, Python, C++: Základ našeho
+  vývoje webových aplikací a interních systémů.HTTP, MBUS, WSS, MQTT, RS485,
+  UART: Protokoly pro komunikaci mezi zařízeními a systémy, klíčové pro naše
+  projekty v IoT a automatizaci.JSON, XML, CSV, MarkDown: Formáty pro výměnu dat
+  a dokumentaci, esenciální pro integraci systémů a reporting.Pouhá zkušenost
+  s „vytvářením stránek v CMS“ (např. WordPress, Joomla atd.) bez hlubšího
+  technického porozumění kódování a systémové integrace pro nás není dostatečná,
+  ale taky víme, že žádný učený z nebe nespadl, s námi dostaneš šanci na tom
+  všem zapracovat.Naše kariérní stránky jsou momentálně mimo provoz, na jejich
+  zprovoznění již pracujeme – prosím tedy o reakci zde na portále.
+
+👤 Kontakt: Žaneta Bc. Pokorná
+
+📞 Telefon: 771 241 090
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Fullstack Developer — Django / React (Remote)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Fincollect SE
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Píšeš kód, který dává smysl — čistý, udržovatelný a funkční i za rok?
+  A zároveň tě baví vidět výsledek v produkci, nejen v pull requestu? Pak se
+  pojď podívat, co děláme.Ve Fincollect vyvíjíme vlastní CRM systém pro správu
+  pohledávek — komplexní produkt, který musí fungovat spolehlivě, škálovat
+  a držet krok s byznysem. Nejsme startup hledající prvního vývojáře. Máme
+  fungující tým, zaběhnuté procesy a jasný směr. Hledáme seniorního vývojáře,
+  který do toho zapadne a pomůže nám posouvat věci dál.Co budeš dělatsamostatně
+  navrhovat, implementovat a rozvíjet nové funkcionality napříč backendem
+  i frontendem našeho CRMoptimalizovat stávající kód, databáze i výkon aplikace
+  a přicházet s vlastními technickými návrhy na její další rozvojkomunikovat se
+  stakeholdery, upřesňovat jejich požadavky, převádět je na technické
+  specifikace a navrhovat efektivní řešenínavrhovat a spravovat deployment
+  procesy, rozvíjet CI/CD pipeline, monitorovat provoz aplikací a řešit
+  incidentydbát na kvalitu kódu, testování a dlouhodobou udržovatelnost aplikace
+  prostřednictvím code reviewmentorovat ostatní vývojáře a pomáhat jim s řešením
+  složitějších technických problémůKoho hledámemáš 5+ let zkušeností s vývojem
+  webových aplikací, z toho významnou část v Pythonu a DjanguReact ti není cizí
+  — fullstack zvládáš bez přepínání kontextunavrhuješ čistý, testovatelný
+  a dlouhodobě udržitelný kód a přemýšlíš nad řešením systémověmáš zkušenosti
+  s návrhem REST API, relačními databázemi (ideálně PostgreSQL) a prací
+  s Gitemzkušenosti s Dockerem, Celery, CI/CD (GitLab) jsou výhodouumíš pracovat
+  samostatně a vyhovuje ti remote spolupráceznalost fintech nebo inkasního
+  prostředí je výhodou, ale není podmínkouovládáš češtinu nebo slovenštinu na
+  výborné komunikační úrovni a s angličtinou také nemáš problémumíš psát, číst
+  a rozumět kódu i bez použití AICo nabízíme100% remote a flexibilní rozvržení
+  časufinanční odměna odpovídající senioritě a výsledkůmreálný vliv na technická
+  rozhodnutí — nejsi jen kodér/ka podle zadánímezinárodní tým, přímá komunikace,
+  žádné zbytečné schůzkyProč FincollectJsme mezinárodní fintech a inkasní
+  skupina s ověřeným zázemím od roku 2017 — působíme v České republice,
+  Španělsku, Rumunsku a na Ukrajině. Náš produkt je v produkci, používají ho
+  reální uživatelé a pořád je co zlepšovat.Nehledáme někoho, kdo bude čekat na
+  zadání. Hledáme vývojáře, který se zapojí, přemýšlí nad celkem a chce být
+  součástí toho, jak produkt roste.Zní to jako ty? Pošli nám životopis nebo
+  ukázku své práce. Těšíme se.
+
+👤 Kontakt: Kristína Weissensteinerová
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 AI engineer, Delivery
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Bénéficielle, s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Backend vývojář/ka (Python, C++) - systém Vema
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Seyfor, a. s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Tým, do kterého hledáme nového kolegu se zabývá programováním systémových
+  platforem jednoho z našich ERP systémů - mzdový a personální systém VEMA.
+  Tento HRIS je velmi oblíbený - používá ho přes 8500 klientů v rámci ČR a SK.
+  Pojď s námi posouvat Vemu na vyšší úroveň.3 důvody proč by tě tahle pozice
+  měla zajímatPříležitost programovat platformní řešení- Můžeš se těšit na
+  různorodou práci. Zapojíme Tě do vývoje systémových komponent, databázové
+  platformy, aplikačních serverů a dostaneš se i k vývoji webových či mobilních
+  aplikacíPracovat můžeš z Brna či Hodonína- Záleží opravdu jen na Tvé
+  preferenci, zdali chceš pracovat s naším týmem na centrále v Brně, nebo si
+  vybereš pobočku Hodonín.Pohodový tým- Těšíme se na tebe v sehraném 7členném
+  týmu, kde dbáme na kamarádskou atmosféru a nic zbytečně nehrotíme.Seniorní
+  technická odpovědnost- Budeš mít prostor ovlivňovat architektonická
+  rozhodnutí, navrhovat robustní řešení a předávat své zkušenosti ostatním
+  členům týmu.Co budeš určitě potřebovat:Alespoň 5 let komerčních zkušeností
+  s programováním v C++ a PythonuProkazatelnou zkušenost s vývojem a návrhem
+  serverových a webových aplikacíVŠ vzdělání s IT zaměřenímAnalytické
+  myšleníVýhodou jsou:znalosti a zkušenosti v oblasti bezpečnosti
+  a kryptografieznalosti programování s využitím autentizačních protokolů
+  (SAML2, OAuth2, Kerberos, …)Technické detailyNávrh a programování systémového
+  jádra pro webové a mobilní aplikaceAnalýza vhodných vývojových řešeníNávrh
+  a realizace serverových služeb pro front-end webových a mobilních
+  aplikacíProgramování databázové platformy, knihoven a funkcí pro síťovou
+  komunikaci a zabezpečeníPráce se serverovými moduly pro správu databáze,
+  instalaci a konfiguraci produktůV Seyforu získáš:Fér odměnu s navýšením po
+  zkušební době.Pracovní smlouvu na 1 rok s možností prodloužení.Flexibilitu
+  v podobně pružné pracovní doby a možnosti 2 dnů home office po zaučení
+  týdně.Zázemí kanceláří na Lesné - blízko zastávky šaliny i nádraží, s možností
+  parkování, příp. kancelář v Hodoníně.Přátelský kolektiv. Fungujeme neformálně
+  a otevřeně. V týmu si pomáháme a víme, že dobrá atmosféra je základ.
+
+👤 Kontakt: Petra Krčová
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Data science Team leader  - AI/ML/NLP - full remote
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: BARTON Consulting s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    2x Data science & AI Team leader - AI / ML / NLPFull remote or hybridWe are
+  looking fortwoexperienced Data Science leaders (for two teams) to build
+  scalable data platforms and AI-driven solutions. These roles combine technical
+  leadership, team management (3–4 developers in each team), and hands-on
+  expertise across data engineering, data science, NLP, and machine learning.You
+  will lead a talented internationalteam of 4 engineers, design modern data
+  architectures, and deliver data products that enable smarter decision-making
+  through advanced analytics and AI.What You'll DoLead and mentor a team of data
+  science engineers.Design and scale modern data platforms, including large-
+  scale natural language processing (NLP) pipelines and data models.Drive AI-
+  powered data engineering workflows, machine learning, and advanced analytics
+  initiatives from concept to production.Build solutions using Python, SQL,
+  cloud technologies (AWS), and modern data platforms such as Snowflake.Lead
+  your team in applying statistical methods and predictive modeling to solve
+  complex business challenges.Develop scalable data workflows, automation, and
+  analytical applications.Collaborate with other teams.Define technical
+  standards and best practices across data and AI initiatives.What You'll
+  Bring4+ years of experience in data science, machine learning,AI (including
+  production-grade agentic AI workflows), or NLP.(NLP expertise is essential for
+  only one of the two teams)Willingness to lead a team and mentor technical
+  professionals.Strong knowledge of AI, ML, data architecture, data modeling,
+  and scalable data solutions.Advancedhands-onPython and SQL skills.Experience
+  with cloud platforms (AWS preferred) and modern data technologies.Experience
+  deploying machine learning or AI solutions into production.Understanding of
+  Generative AI, LLMs, or modern AI frameworks.Fluent English communication
+  skills; communicative Czech is an advantage.Nice to HaveKnowledge of
+  Snowflake.Experience with knowledge graphs and graph analytics.Experience
+  implementing retrieval-augmented generation (RAG) and semantic
+  search.Experience building data quality, anomaly detection, or automation
+  solutions.Experience with agent orchestration frameworks such as Claude Code
+  or the Claude Agent SDK, as well as tool-calling and MCP-based integration
+  patterns.What We OfferOpportunity to shape modern data and AI solutions with
+  real business impact.Leadership role within an international company, with
+  ownership and technical influence.Flexible working environment.Continuous
+  learning and access to modern technologies.Competitive compensation and
+  benefits.
+
+👤 Kontakt: Jitka Panáková
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Junior Embedded SW Engineer C/C++
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Johnson Controls
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Chcete vyvíjet embedded software pro produkty, na jejichž spolehlivosti
+  skutečně záleží?V Johnson Controls vyvíjíme požární bezpečnostní technologie,
+  které chrání miliony lidí a budov po celém světě. Do našeho brněnského
+  vývojového centra hledáme zkušeného Juior Embedded Software Engineera, který
+  bude součástí nově vznikajícího týmu pracujícího na nové generaci požárních
+  panelů a souvisejících systémů.Čeká vás řešení zajímavých technických problémů
+  v oblasti embedded vývoje. Budete spolupracovat s globálními experty a podílet
+  se na dlouhodobém vývoji moderních bezpečnostních systémů.Vaše práce bude mít
+  přímý dopad na produkty, které chrání lidi a majetek po celém světě.Co bude
+  vaší náplní práce:Vývoj firmwaru pro požární ústředny, detektory
+  a signalizační zařízeníSpolupráce s globálními softwarovými týmy, zákazníky
+  a technickou podporouÚčast na zajímavých mezinárodních projektech, vytváření
+  dokumentace, řešení technických výzev a problémůCo od vás očekáváme:VŠ
+  vzdělání v oboru informatiky nebo elektrotechnikyZkušenost s vývojem embedded
+  systémů vítánaZnalost jazyka C a zkušenosti s C++Zkušenosti s nástroji pro
+  správu verzí (Git) vítányPozice je vhodná i pro absolventy se zájmem
+  o embedded vývojSchopnost samostatné práce a organizace vlastních úkolůDobrá
+  znalost angličtiny slovem i písmemVýhodou jsou:Zkušenosti se skriptovacími
+  jazyky (Python)Znalost JIRA, ConfluenceZkušenost s využíváním AI nástrojů pro
+  zvýšení produktivityCo nabízíme:Finanční benefity: 13. plat vyplácený
+  čtyřikrát ročně a 14. plat (roční bonus)Flexibilní pracovní doba, 25 dní
+  dovolené, roční přehodnocení mzdy, home office 2x týdně, stravenky, Multisport
+  karta, T-Mobile tarify, příspěvek na tábory, příspěvek na penzijní/life
+  pojištěníModerní kanceláře v budově Platinia na ul. VeveříProstor pro vlastní
+  iniciativu a technická rozhodnutí
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Vývojáři webové aplikace (front-end, back-end, full-stack, databáze)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: ENGINN EFFECT, s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Embedded SW Engineer C/C++
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Johnson Controls
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Chcete vyvíjet embedded software pro produkty, na jejichž spolehlivosti
+  skutečně záleží?V Johnson Controls vyvíjíme požární bezpečnostní technologie,
+  které chrání miliony lidí a budov po celém světě. Do našeho brněnského
+  vývojového centra hledáme zkušeného Embedded Software Engineera, který bude
+  součástí nově vznikajícího týmu pracujícího na nové generaci požárních panelů
+  a souvisejících systémů.Čeká vás řešení zajímavých technických problémů
+  v oblasti embedded vývoje. Budete spolupracovat s globálními experty a podílet
+  se na dlouhodobém vývoji moderních bezpečnostních systémů.Vaše práce bude mít
+  přímý dopad na produkty, které chrání lidi a majetek po celém světě.Co bude
+  vaší náplní práce:Vývoj firmwaru pro požární ústředny, detektory
+  a signalizační zařízeníSpolupráce s globálními softwarovými týmy, zákazníky
+  a technickou podporouÚčast na zajímavých mezinárodních projektech, vytváření
+  dokumentace, řešení technických výzev a problémůVedení a plánování dílčích
+  projektových úkolůCo od vás očekáváme:VŠ vzdělání v oboru informatiky nebo
+  elektrotechniky3 roky zkušeností s vývojem embedded systémůZnalost jazyka C
+  a zkušenosti s C++Zkušenosti s nástroji pro správu verzí (Git)Schopnost
+  samostatné práce a organizace vlastních úkolůDobrá znalost angličtiny slovem
+  i písmemVýhodou jsou:Zkušenosti se skriptovacími jazyky (Python)Znalost JIRA,
+  ConfluenceZkušenost s využíváním AI nástrojů pro zvýšení
+  produktivityZkušenosti s unit testyZnalost Qt FrameworkuZnalost Linuxu
+  (application development, Yocto, device drivers)Zkušenosti s vývojem softwaru
+  pro safety-critical a security-critical systémyPraktické zkušenosti s vývojem
+  pro ARM SoC (například i.MX8, MCX N)Zkušenosti s RTOSCo nabízíme:Finanční
+  benefity: 13. plat vyplácený čtyřikrát ročně a 14. plat (roční
+  bonus)Flexibilní pracovní doba, 25 dní dovolené, roční přehodnocení mzdy, home
+  office 2x týdně, stravenky, Multisport karta, T-Mobile tarify, příspěvek na
+  tábory, příspěvek na penzijní/life pojištěníModerní kanceláře v budově
+  Platinia na ul. VeveříProstor pro vlastní iniciativu a technická rozhodnutí
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 AI/ML Python developer / Data science / Data engineer/ - full remote
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: BARTON Consulting s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    AI/ML Python developer / Data science engineer / Data engineer - full
+  remotePro našeho klienta, velmi prestižní, mezinárodní společnost, která
+  zřídila své vývojové centrum v ČR, hledáme dva kandidáty na poziciAI/ML Python
+  developer. Máme prostor jak pro mediora nebo seniorního kolegu.Baví vás
+  navrhovat a provozovat NLP/LLM řešení, práce s velkým objemem dat,
+  programování v Pythonu a SQL a chcete být součástí špičkového mezinárodního
+  týmu? Pak je tato příležitost pro Vás!Zodpovědnosti:Navrhovat a provozovat
+  NLP/LLM řešení pro zpracování rozsáhlých objemů textových dat.Využívat AI
+  nástroje při vývoji a dohlížet na kvalitu a bezpečnost jejich výstupů.Rozvíjet
+  datové pipeline v Pythonu, SQL a Snowflake a hledat efektivní technická
+  řešení.Spolupracovat s interními týmy a stakeholdery na návrhu a realizaci AI
+  projektů.Koordinovat práci menšího týmu, podporovat jeho rozvoj a nastavovat
+  realistické priority a termínyOčekáváme:VŠ vzdělání technického, matematického
+  či ekonomického zaměřeníMinimálně 2 roky praxe v oblasti data science nebo
+  AI/ML engineering, uvítáme i znalost data engineeringuVelmi dobrá znalostSQL
+  a programování v Pythonu(2+ vývoj a nasazeníaplikací založených na agentní AI
+  nebo LLM do produkčního prostředí)Zkušenosti s strojovým učením, rámcem pro
+  orchestraci agentů Claude Code/Claude Agent SDK a integračními vzory
+  založenými na volání nástrojů / MCP.Angličtinu na úrovni dobré komunikace
+  (práce bude v mezinárodním týmu)Výhodou ale ne podmínkou: AWS, Snowflake,
+  PostgreSQL, Airflow, NoSQLNabízíme:Široká škála benefitů včetně flexipasů a 5
+  týdnů dovolené, 13 mzda, flexibilní pracovní doba, cafeteria, sick
+  days,..Zázemí úspěšné nadnárodní poradenské společnostiMožnost odborného
+  i karierního růstuMožnost pracovat full remote, z celé ČR. (práci ze zahraničí
+  neumožňujeme)Technologická i jazyková školení, účast na mezinárodních
+  konferencíchÚčast na mezinárodních projektech
+
+👤 Kontakt: Jitka Panáková
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Embedded Software Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Johnson Controls
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Hledáte práci, kde bude převažovat technika nad administrativou a kde budete
+  mít reálný vliv na spolehlivost a kvalitu produktů používaných po celém
+  světě?V Johnson Controls vyvíjíme požární bezpečnostní technologie, které
+  chrání miliony lidí a budov po celém světě. Do našeho brněnského vývojového
+  centra hledáme zkušeného Senior Embedded Software Engineera, který se bude
+  podílet na dlouhodobé technické podpoře a rozvoji zavedených produktů.Čeká vás
+  práce na zavedených produktech, řešení zajímavých technických problémů od
+  analýzy příčiny až po implementaci řešení, spolupráce s globálními experty
+  a možnost podílet se na dlouhodobém vývoji moderních bezpečnostních
+  systémů.Minimum administrativy. Maximum technických výzev. Reálný dopad na
+  produkty, které chrání lidi a majetek po celém světě.Co bude vaší náplní
+  práce:Vyvíjet, testovat a vylepšovat firmware pro požární ústředny, detektory
+  a signalizační zařízení.Spolupráce s globálními softwarovými týmy, zákazníky,
+  technickou podporou a NPI týmy.Účast na zajímavých mezinárodních projektech,
+  vytváření dokumentace, řešení technických výzev a problémůCo od vás
+  očekáváme:VŠ vzdělání v oboru informatiky nebo elektrotechnikyMinimálně 3 roky
+  zkušeností s vývojem embedded systémů v jazyce C/C++Zkušenosti s nástroji pro
+  správu verzí (Git)Schopnost samostatné práce a organizace vlastních úkolů bez
+  potřeby detailního vedení.Dobrá znalost angličtiny slovem
+  i písmemVýhodouZkušenosti se skriptovacími jazyky (Python)Znalost JIRA,
+  ConfluenceZkušenost s využíváním AI nástrojů pro zvýšení
+  produktivityZkušenosti s unit testyCo nabízíme:Finanční benefity: 13. plat
+  vyplácený čtyřikrát ročně a 14. plat (roční bonus)Flexibilní pracovní doba, 25
+  dní dovolené, roční přehodnocení mzdy, home office 2x týdně, stravenky,
+  Multisport karta, T-Mobile tarify, příspěvek na tábory, příspěvek na
+  penzijní/life pojištěníModerní kanceláře v budově Platinia na ul.
+  VeveříProstor pro vlastní iniciativu a technická rozhodnutí
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 AOCS Control Engineer (SPACE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: VZLU AEROSPACE, a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Your algorithms will control satellites in orbit.As a Control Engineer at VZLU
+  Aerospace's Space Division, you will build algorithms, models and analyses for
+  Attitude and Orbit Control Systems (AOCS). You will be working on real
+  missions (VZLUGEM, AMBIC, QUVIK), commercial projects and products, and R&D
+  that advances our space systems capabilities.VZLU is one of the few
+  organizations worldwide with comprehensive AOCS capabilities, covering the
+  full lifecycle from algorithms to flight operations. Beyond AOCS, our Space
+  Division integrates complete satellites end to end – from system design and
+  assembly through testing to in-orbit operations.Your Key ResponsibilitiesYou
+  will contribute across the full development lifecycle of satellite control
+  systems, initially working with experienced engineers and taking on greater
+  technical ownership as your expertise grows:Translate mission needs into
+  measurable AOCS requirements and performance targetsDesign attitude and orbit
+  control functions, including guidance, navigation, state estimation, and fault
+  managementDevelop dynamic models, simulations, and control algorithmsAssess
+  performance through Monte Carlo campaigns and sensitivity analysesPrototype
+  algorithms and support their implementation in flight softwareDefine
+  verification scenarios and support SIL, PIL, and HIL testingAnalyse flight
+  telemetry, investigate anomalies, and document reusable designs and methodsYou
+  will build systems designed to extend across missions. Your foundation work
+  today becomes the platform for tomorrow's capabilities. Expect to learn
+  constantly, teach others, and see your algorithms operate in space.Required
+  QualificationsUniversity degree in control engineering, cybernetics, aerospace
+  engineering, electrical engineering, physics, applied mathematics, or
+  a related fieldUnderstanding of dynamic systems, feedback control, and state
+  estimationKnowledge of rigid-body dynamics and coordinate
+  transformationsExperience in modelling, simulating, or testing real-world
+  control systemsAbility to analyse engineering problems and implement
+  algorithms in at least one programming languagePractical experience from work,
+  university, research, internships, or personal projects, with motivation to
+  grow in a multidisciplinary teamEnglish at B2 level or higherPreferred
+  QualificationsPython, including NumPy or SciPy, or willingness to
+  learnMATLAB/Simulink or similar modelling and simulation toolsStrong
+  foundations in linear algebra, numerical methods, mechanics, or dynamicsMonte
+  Carlo simulation, sensitivity analysis, or fault detection and
+  recoveryHardware or HIL testing experienceExperience in spacecraft AOCS or
+  another mission-critical control domain; Rust is an advantageWhat We Look
+  ForWe are building a team for complex, mission-critical work. You will thrive
+  here if you:Embrace hard problems: Satellite control systems demand
+  precisionBalance independence with teamwork: Take responsibility for your own
+  work while integrating tightly with software, systems, electronics, and test
+  engineersThink in systems: Understand how individual algorithms, sensors,
+  actuators, software, and spacecraft dynamics work togetherConnect theory with
+  reality: Recognise that a mathematically elegant solution must also work with
+  real hardware, limited resources, disturbances, uncertainties, and operational
+  constraintsLearn continuously: Be comfortable working with unfamiliar problems
+  and developing new expertise along the wayFind meaning in the mission:
+  Contribute to Czech aerospace capability and European space independenceIf you
+  are ready for control systems where precision matters and the opportunity to
+  see your algorithms control satellites excites you, let's talk.What We
+  OfferReal missions: Contribute to national satellites launching in the coming
+  years, not just prototypesSmall team, big impact: Join a small, focused team
+  where your work directly determines mission successRare expertise: Work on
+  complete AOCS systems from algorithms through flight operations – few teams
+  globally do this end-to-endBuild capability: Help establish Czech space
+  systems expertise from the ground upPossibility of further qualification: Grow
+  through structured professional developmentBenefits: 5 weeks of vacation, meal
+  allowance, allowance for supplementary pension insurance, allowance for
+  leisure activitiesThe work location isPrague, Czech Republic.
+
+👤 Kontakt: Tereza Ducháčová
+
+📞 Telefon: +420 225 115 323
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Machine Learning Engineer – Conversational AI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Agnostix, s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 SENIOR VÝVOJÁŘ/KA DATOVÉ PLATFORMY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Digitální a informační agentura
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Do Digitální a informační agentury právě hledáme nového kolegu/ novou kolegyni
+  na pozici Vývojář/ka datové platformy (DPČ) pro jeden z důležitých
+  digitalizačních projektů státní správy.Co budeš dělat?Vyvíjet robustní
+  aplikaci (datovou platformu) DATAHUB propojující data ze systémů státní
+  správy.Automatizovat datové toky, nastavovat vývojové, testovací a produkční
+  prostředí.Pracovat s Pythonem (PySparkem) a prostředím MS Azure, používat
+  DevOps přístup a tvořit dokumentaci.Pracovat převážně v MS Fabric, takže
+  zkušenost s tímto prostředím je výhodou.Přinášet nápady na zlepšení, zapojení
+  AI a nové technologie.Pracovat samostatně i v týmu.Potřebujeme abys:Měl/a
+  zkušenosti s prostředím MS Azure/ MS Fabric.Běžně programoval/a v Pythonu/
+  PySparku.Měl/a zkušenost s aplikačním vývojem.Rozuměl/a DevOps.Rozuměl/a
+  datovým modelům.Měl/a pokročilou zkušenost s SQL.Co ti nabízíme?Práci v menším
+  agilním teamu, který funguje v unikátním prostředí státní správy.Možnost
+  podílet se koncepčně na realizaci smysluplného projektu s jasným
+  cílem.Flexibilitu a prostor pro vlastní nápady a sdílení know-how.Práci na
+  DPČpřevážně remote s možností využití kanceláří ve Vršovicích.Odměna 550
+  Kč/hodina (max. 80 hodin měsíčně).Nástup dle dohody.Co je náš cíl?Budovat
+  a rozvíjet centrální datovou platformu, která státní správě usnadní
+  rozhodování na základě kvalitních dat. Podívej se
+  nahttps://datahub.gov.cz/.Chceš se stát součástí týmu, který mění budoucnost
+  práce s daty ve státní správě? Napiš nám!
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Function Owner (m/f/d) Infotainment
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Bertrandt AG
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Delphi vývojář/ka - produktový vývoj - remote/onsite
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: JABLOTRON CLOUD Services s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Python Backend Developer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Seznam.cz, a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Chcete se podílet navývoji backenduproStream.cz, Podcasty.cza další weby jako
+  jsou televizní program nebo televizeseznam.cz, které běží inhouse na vlastním
+  cloudu ve vlastních datových centrech a oslovují miliony uživatelů denně?Co
+  budete dělatVaší hlavní náplní práce budevývoj škálovatelných aplikací
+  v Pythonua optimalizace dotazů do databáze pro vysokou zátěžPráce na převodu
+  Streamu na novou platformu (migrace dat, vývoj nových API…)Vyvíjet backend pro
+  seznamácké obsahové služby, automatizovat vývojové procesy a monitorovat
+  běžící služby.Nasazování a provoz jsou plně automatizované (CI/CD)Co budete
+  potřebovatBez znalostiPythonua vývojeISse neobejdeteRozumíte CI/CD pipeline
+  a víte, co se děje s vaším kódem po mergeZkušenosti s Reactem jsou vítané,
+  nikoliv však podmínkouNa co se můžete těšitPoužíváme mnoho moderních
+  technologií (FastAPI, MongoDB, Redis, Maria DB, PostgreSQL, Docker,
+  Kubernetes, Prometheus, Grafana, Sentry…), které vás rádi naučíme.V případě
+  zájmu můžete vyvíjet náš administrační web v ReactuVyužíváme AI/ML metody
+  (Copilot, Claude code)Jsme otevřeni dalším zajímavým inovacím. Naše
+  technologické zázemí rádi posouváme dále podle celosvětových trendů.Máme
+  možnostovlivňovat výsledný produkt.Při procesu vývoje nových funkcí jsou
+  řešení konzultována s vývojáři.Možnost vybrat si vlastní techniku dle
+  preferencí (MacOS nebo HP s libovolnou Linux distribucí, případně možnost
+  používat i vlastní zařízení)Přátelské prostředí, kde si pomáháme a sdílíme
+  know-how a možnost učit se od zkušených vývojářů.Jak probíhá výběrkoVáš
+  životopis a přiložené dokumenty pečlivě projdeme a v případě shody se s vámi
+  spojí telefonicky Tereza z HR  a během 10-20 minut proberete vzájemná
+  očekávání a požadavky.Technické předkolo na ZoomuPokud vše bude ladit, pozveme
+  vás osobní pohovor, jehož součástí bude i technické prověření vašich znalostí
+  a dovedností. Představíme vám detailněji pozici, fungování týmu a samozřejmě
+  bude prostor pro vaše dotazy. Osobní setkání obvykle trvá přibližně 2
+  hodiny.Bude nám stačit toto jedno osobní setkání na to, abychom se mohli
+  rozhodnout, zda bychom vám nabídli práci v tomto týmu.Chcete se dozvědět více?
+  Dejte nám o sobě vědět!
+
+👤 Kontakt: Tereza Svobodová
+
+📞 Telefon: 737 027 344
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Data Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: R4U s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Specialista SW podpory BIM projektů
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: ENERGOPROJEKT PRAHA s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Baví vás 3D modelování, BIM a nejnovější technologie?Chcete být u zrodu
+  budoucnosti projektování a posouvat hranice toho, co dnes BIM dokáže?Pokud
+  ovládáteRevit, zajímáte se o moderní přístupy k projektování a láká vás jít
+  dál než jen „klasický BIM“, máme pro vás jedinečnou příležitost.Staňte
+  seSpecialistou SW podpory BIM projektůve společnostiENERGOPROJEKT PRAHA
+  s.r.o.a podílejte se na vývoji a inovacích BIM aplikací, které skutečně
+  ovlivňují praxi.Hledáme nadšence, který chce růst, tvořit a stát se klíčovou
+  součástí týmu, jenž formuje budoucnost projektování.Co konkrétně budete
+  dělattvorba skriptů a doplňků v Revit Dynamotvorba Revit doplňků přes
+  APIúprava a tvorba Revit rodin (geometrie + parametry)řešení automatizace
+  dodatečných úprav IFC souborůkoordinace modelů IFCpodrobná kontrola modelů
+  IFCvytváření a správa protokolů připomínekKlíčové požadavky pro tuto
+  poziciSŠ/VŠ technické vzdělání (preferujeme stavební obor) nebo v oblasti
+  informačních technologiípokročilé zkušenosti s programováním Revitpokročilé
+  zkušenosti s Revit Dynamempokročilá znalost programovacího jazyka Python –
+  modul CPython3znalost Revit APIpokročilá znalost MS Exel"analytické myšlení
+  a schopnost pracovat systematicky i v náročném prostředí dobré organizační
+  schopnostikomunikativní úroveň českého jazykaanglický jazyk – středně
+  pokročilá úroveňřidičský průkaz sk. BUvítámesilný důraz na samostatnost,
+  zodpovědnost a pečlivostsmysl pro detail a chuť hledat chytrá řešení i u
+  složitějších technických výzevorientace v dalších BIM nástrojíchznalost
+  JavaScript nebo SQLNaše nabídkazázemí stabilní a respektované společnosti
+  Skupiny ČEZsmysluplná práce na dlouhodobých a strategických projektech
+  v oblasti jaderné energetikyodborné a vysoce profesionální pracovní prostředí
+  s evropským přesahemodpovídající mzdové ohodnocení včetně motivačních
+  výkonových odměnpružná pracovní doba a pracovní úvazek 37,5 hodiny týdně5
+  týdnů dovolené a 3 dny zdravotního volna (sick days)široká škála benefitů
+  (Cafeterie, příspěvky na penzijní a životní pojištění, stravování, zvýhodněné
+  mobilní tarify, Multisport karta)prostor pro odborný i osobní rozvoj, včetně
+  specializovaných odborných kurzůonline přístup ke zdravotní platformě
+  uLékaře.czmísto výkonu práce: Praha
+
+👤 Kontakt: Martina Jásková
+
+📞 Telefon: +420 606 675 698
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Python vývojář
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Elektroenergetické datové centrum, a. s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Stavíme centrální datový systém pro trh s elektřinou.Co u nás budete
+  dělat?Budete vyvíjet nový centrální datový systém pro český trh s elektřinou,
+  který vzniká od základu.Podle svých zkušeností se zaměříte na data a výpočty,
+  nebo na portálovou část systému.V datové části budete pracovat s časovými
+  řadami měřených dat, výpočetními moduly a rozhraními pro komunikaci
+  s účastníky trhu.V portálové části budete řešit registraci subjektů, smlouvy,
+  ověřování identity přes BankID a systém přístupových oprávnění.Pracovat budete
+  především sPythonem,FastAPIaSQL, dále sREST/SOAP APIa podle potřeby také
+  s technologiemiApache IcebergaSpark.Zapojíte se do technologických rozhodnutí
+  a budete mít možnost ovlivnit výslednou podobu řešení.Jaké znalosti
+  a dovednosti byste měli mít?Praktickou zkušenost s vývojem v Pythonu
+  v produkčním prostředí (orientačně 3+ roky, důležitější jsou ale vaše skutečné
+  znalosti).Zkušenost s databázemi a SQL.Zkušenost s většími objemy dat nebo
+  časovými řadami výhodou.Ochotu psát testy, pracovat s code review a učit se
+  nové technologie.Angličtinu na úrovni technické dokumentace.Pragmatický
+  přístup k využívání AI nástrojů při vývoji.Co vám můžeme nabídnout?Možnost
+  práce na dálku (Home Office) až3 dny v týdnu.Pružnou pracovní dobu.Součástí
+  odměny jevariabilní složka mzdy.25 dnůdovolené a k tomu3 dnyzdravotního
+  volna.Benefitní programBenefit plus.Měsíční příspěvek napenzijní
+  připojištění.Stravenkový paušál.Místo výkonu práce:Praha - LibeňNástup:
+  Dohodou.
+
+👤 Kontakt: Bára Bílková
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Python/DevSecOps Engineer - od backendu až po CI/CD a security
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: ADASTRA CZ s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    DonašehoDevSecOps týmu hledáme posilu, která se bude věnovat především vývoji
+  webových aplikací v Pythonua zároveň jí nejsou cizí ani témata jakoCI/CD,
+  kontejnerizace nebo security.Nemusíš být expert(ka) – hledáme především
+  někoho, kdo má dobrý technický základ, aktivně využívá AI nástroje, dokáže
+  převzít odpovědnost a pracovat samostatně.Pokud tě láká prostředí, kde se učíš
+  praxí,čti dál!Čemu se budeš věnovat:Vývoji backendu webových aplikací
+  v Pythonu a návrhu REST APINávrhu datových modelů a práci s databází
+  MongoDBZpracování a generování tabulkových dokumentůAutomatizaci vývoje,
+  testování a nasazováníŘešení problémů napříč backendem, frontendem, databází
+  i provozním prostředímBudeme si rozumět, pokud:Máš praktické zkušenosti
+  s Pythonem a backendovým vývojem webových aplikacíZnáš Django nebo obdobný
+  Python framework a rozumíš návrhu REST APIUmíš pracovat se strukturovanými
+  daty (validace, serializace, tabulkové dokumenty)Už jsi pracoval(a)
+  s dokumentovou databází (ideálně MongoDB) a zvládneš navrhnout datový model
+  i efektivní dotazyOvládáš velmi dobře Git včetně týmového workflow a dokážeš
+  automatizovat vývoj, testování i nasazováníPrakticky používáš Docker ke
+  kontejnerizaci aplikací a pohybuješ se v Linuxu/Unixu (stačí i WSL)Orientuješ
+  se v CI/CD a principech DevSecOps a zajímá tě bezpečnost aplikací, závislostí,
+  konfigurace i citlivých údajůAI nástroje využíváš jako pomocníka k vyšší
+  efektivitě, ne jako náhradu vlastní práce – rozumíš tomu, co s AI vytváříš,
+  a odpovídáš za finální výsledekNeméně důležité je pro nás, pokud:Jsi
+  proaktivní, máš vlastní iniciativu a úkoly dotahuješ do konceU chyb hledáš
+  skutečnou příčinu, umíš srozumitelně popsat problém i navrhnout
+  řešeníKomunikuješ otevřeně a včas dáš vědět, když se něco zasekneChceš se učit
+  nové technologie a zpětnou vazbu bereš jako příležitost se posunoutVýhodu
+  budeš mít, pokud:Máš zkušenost s automatizovaným testovánímOrientuješ se
+  v moderním frontendu (TypeScript, React) včetně nástrojů pro správu
+  serverového stavu, formulářů a monorepozitářůNezalekneš se kódu v .NET – stačí
+  mu rozumět, vyvíjet v něm nemusíšMáš zkušenost s integrací více
+  technologických platforemProč věříme, že ti v Adastře bude dobře:Jsmestabilní
+  mezinárodní firma s multiprojektovým prostředím, která pořád rostePod jednou
+  střechousdružujeme špičkové technologie a zkušené expertyze všech možných IT
+  odvětvíPodporujemeindividuální profesní rozvojJednáme spolu na rovinua ceníme
+  si proaktivního přístupuMimo to se můžeš těšit na:Neformální atmosféru– po
+  práci se potkáváme na společenských i sportovních akcích (a těch není zrovna
+  málo)Moderní kancelářevMississippi House v Karlíně25 dnů volna do
+  začátkuakaždý rokti k nim přidámejeden den volna navícFlexibilní pracovní dobu
+  i home office– vše podle domluvyŠiroké možnosti vzdělávání– tréninky,
+  přednášky, webináře i certifikaceMěsíčnípříspěvek do Cafeterie,který můžeš
+  využít na různé volnočasové aktivitynebo na Multisport kartuPříspěvek na
+  stravováníV kuchyňkách najdešvýbornou kávu, velký výběr čajů i jiné nápoje +
+  ovocné a svačinové bedýnky plné dobrotSlevy u našich partnerů– ať už jde
+  o elektroniku, kulturu či službyDny FIT Adastra, protože nám záleží na tvém
+  zdraví – můžeš využít odborná vyšetření, konzultace a různé aktivity pro
+  podporu fyzické i psychické kondiceRádi podporujeme, když chceš pomáhat, takže
+  dostaneš 1 den placeného volna navíc na dobrovolnické aktivity dle svého
+  výběruPlacené volno navíc, pokud doprovázíš svého prvňáčka v první školní
+  denChceš procestovat svět, napsat knihu nebo si jen dát pauzu?Po 3 letech
+  u nás si můžeš vzít Sabbatical leaveŠtědrý referral program, pokud nám pomůžeš
+  najít nové AdastřanyZaujali jsme tě? Udělej první krok!PošlinámCVneboodkaz na
+  LinkedIn. Spojíme se s tebou a domluvíme se na dalším postupu.
+
+👤 Kontakt: Lukáš Žatečka
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Python Developer – AI aplikace pro mediální dům (Denik.cz)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: VLTAVA LABE MEDIA a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Do našeho menšího inovativního AI týmu hledáme šikovného Python vývojáře,
+  který chce rozvíjet své zkušenosti s LLM modely, umí pracovat samostatně i v
+  týmu a rád/a by se podílel/a na vývoji naší interní AI aplikace. V rámci týmu
+  budeš mít prostor přinášet vlastní nápady, testovat nové přístupy v práci
+  s jazykovými modely a podílet se na klíčových rozhodnutích o směru
+  vývoje.Pokud Tě zajímá vývoj aplikace, která našim kolegům umožní používat
+  nejnovější AI nástroje a zásadně jim tak usnadní jejich práci díky využití AI,
+  rádi se s Tebou potkáme.Jak pracujeme:Náš tým funguje agilně a iterativně ve
+  dvoutýdenních sprintech. Během nich plníme cíl, který jsme si v týmu stanovili
+  a implementujeme funkcionality, na kterých jsme se společně domluvili. Každý
+  v týmu má svou vlastní roli, ale všichni společně se snažíme přinášet vlastní
+  nápady a rozvíjet naše aplikace tak, aby byly pro své uživatele co
+  nejpřívětivější a pracovalo se jim s nimi co nejlépe.Co Tě u nás čeká:Vývoj
+  interní AI aplikace (primárně její backendová část)Spolupráce v menším týmu
+  s produktovými manažery se zaměřením na AIDalší rozvoj nově vyvinuté
+  aplikaceImplementace navržených funkcí a nástrojů dle požadavků AI
+  týmuNapojování interních systémů a dalších služeb přes APIAgilní vývoj se
+  zaměřením na využití AITechnologický rozvoj a integrace aplikace do CMSPři své
+  práci budeš potřebovat:Alespoň mediorní zkušenost v jazyce PythonPředchozí
+  praxi s některým z frameworků (ideálně FastAPI)Pokročilá znalost relačních
+  i NoSQL databází (PostgreSQL, Mongo…)Zkušenost s integrací APIUmět navrhnout
+  a implementovat aplikaci dle zadání od nuly až do produkčního nasazeníMít
+  základní DevOps znalosti (Git, Docker, webserver, CI/CD)Znalost a praktickou
+  zkušenost s tvorbou administračních rozhraníEfektivně ke své práci využívat AI
+  nástrojeBýt iniciativní a přispět svým názorem ke směřování projektuRychle se
+  učit nové věciSamostatnost, ale i schopnost efektivně komunikovat
+  s kolegyPlusové body:Zkušenost s vývojem AI/LLM aplikacíZnalost fungování
+  jazykových modelů (zejména OpenAI a Anthropic)Zkušenosti s mediálním
+  prostředím/obsahem a práce s redakcemiAlespoň základní schopnost frontendového
+  vývoje webových aplikací (UI/UX, React, Tailwind…)Co na oplátku nabízíme
+  my?Zajímavý a inovativní AI produkt v rámci jednoho z největších mediálních
+  domů v ČRPráce s viditelným výsledkem, která reálně pomáhá redakcímMalý tým,
+  možnost zkoušet nové věci a inovace v AIMožnost ovlivnit technické
+  i produktové směřování aplikaceNadále se vzdělávat a rozvíjet své znalosti
+  v oblasti AISpolupráci na pracovní smlouvu nebo na IČOMožnost práce
+  z domovaÚvodní zaškolení a proces průběžného vzděláváníSlužební mobil
+  a počítač20 dní volna, 5 dní Relax Days, 4 dny zdravotního volna
+  a narozeninový denDej nám o sobě vědět.
+
+👤 Kontakt: Monika Lustigová
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Python Developer - Manufacturing
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Thermo Fisher Scientific
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Tester Termovizních Systémů - junior/senior
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Workswell s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Tester/ka Termovizních systémů – senior/juniorWorkswell hledá posily do
+  testovacího týmu v PrazeNáš nový kolega nebo kolegyně by měl/a být schopen/a
+  zpočátku provádět testy podle připravených scénářů a zaznamenat nalezené
+  anomálie. Brzy by měl/a zvládat navrhovat a připravovat potřebné testy podle
+  popisu či charakteru aplikace a postupem času také naplánovat a organizovat
+  testování v rámci probíhajících projektů.Co děláme?Testujeme opravy chyb, nové
+  funkcionality, implementace nových termovizních produktů či změn i nově
+  zaváděný software. Pokrýváme testy od začátku do konce, tedy připravujeme
+  strategie a plány pro testování, odhady, navrhujeme potřebné typy testů,
+  připravujeme data, nástroje. Testujeme manuálně i automatizovaně. Pracujeme
+  s uživatelským i datovým rozhraním aplikací. Nacházíme chyby, které je lepší
+  najít při testu, než řešit u zákazníků.Poznáte používané produkty společnosti
+  Workswell, které budete testovat a také nástroje, které budete v rámci testů
+  používat. Očekáváme, že se brzy stanete specialistou v oblasti softwarového
+  testování, který bude zvládat testy plánovat, připravovat i vykonávat. Obecně
+  se budete moci věnovat analýze use cases, formulace problému, následně návrh
+  a realizace testovacích scénářů.Budete se podílet na automatických,
+  integračních testech, včetně zátěžových a výkonnostních testů a samozřejmě
+  reportování výsledků testů v rámci softwarového týmu.Juniorní kandidáti se
+  budou s prací seznamovat od základů. Seniorní kandidáti dostanou rychleji
+  příležitost k tvorbě testovacích strategií, automatizaci, realizaci případných
+  vylepšení, které znají ze své stávající praxe apod.Dostanete podporu kolegů
+  i možnost dalšího profesního rozvoje. Čeká Vás různorodá práce a zajímavá
+  práce, která není nuda.Juniorní kandidáti:Máte alespoň rámcové zkušenosti
+  s testováním aplikací nebo se o tuto oblast zajímáte. Potřebujeme kolegu/-ni
+  technického typu, kterého/kterou tato práce zajímá a bude bavit.Máte rád/a
+  změny a poznávání nových věcí. Pracujeme v dynamickém prostředí. Hledáme
+  komunikativního a aktivního kolegu, co udrží krok s dobou, je schopen rychle
+  poznávat, dobře si pamatovat a poučit se z chyb.Seniorní kandidáti:Máte
+  praktickou zkušenost na obdobné pozici. Testováním se už nějakou dobu zabýváte
+  profesionálně, případně vyvíjíte a testujete si po sobě své výstupy (či svých
+  kolegů) apod., Víte, jak se testy automatizují, víte, jak vzniká software a co
+  bývá „na pozadí“. Je dobré vědět, jak automatizovat ovládání GUI a také co je
+  na jeho pozadí. Taky jak si spolu aplikace „povídají“, protože testujeme
+  i systémová rozhraní aplikací. Máte schopnost empatie a vyjednávání. Umíte se
+  dobře vžít jak do role uživatele tak i vývojáře, umíme naslouchat, v klidu
+  a věcně argumentovat, vyjednávat a rozumně se domluvit.-----------------------
+  ------------------------------------------------------------------------------
+  -------------Oceníme především vlastní iniciativu a tvůrčího ducha – zákazníci
+  od nás očekávají inovativní řešení a naším cílem je dodat co nejlepší produkt
+  ve srovnání se světovou konkurencí.Zaujala Vás tato pracovní nabídka?
+  Neváhejte a zašlete nám svůj profesní životopis.Budeme se těšit na vzájemnou
+  spolupráci!
+
+👤 Kontakt: Adam Švestka
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Implementační specialista/specialistka a technická podpora pro ALICE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: MEMOS Software s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Do týmu, který se stará o ALICE by Redque, hledáme kolegu nebo kolegyni na
+  pozici implementační specialista / specialista technické podpory na poloviční
+  úvazek.ALICE je naše AI aplikace pro vytěžování faktur a účtenek, která šetří
+  čas účetním i každému, kdo nechce ručně přepisovat daňové doklady. Díky
+  vlastnímu AI enginu vytěží faktury, účtenky a další dokumenty s přesností až
+  98 %, data následně ověří, archivuje a exportuje do účetního programu.Koho
+  hledáme?Hledáme pečlivého, zodpovědného a komunikativního člověka, který má
+  technické zkušenosti se vzdálenou správou IT a alespoň základní zkušenosti
+  s Pythonem (psaní skriptů, práce s API). Velkou výhodou je znalost účetnictví
+  nebo účetních programů.Co přesně vás čeká?Technická podpora na dálku: vzdáleně
+  řešit technické problémy a požadavky zákazníků ALICE, když něco nefunguje, je
+  potřeba pomoc s nastavením nebo zákazník potřebuje raduSkripty v Pythonu: psát
+  skripty, které zákazníkům zautomatizují práci, například úpravy exportu dat do
+  účetního programu, automatické kontroly vytěžených dokladů nebo hromadné
+  zpracování dokumentůIntegrace: propojovat ALICE s dalšími systémy, které
+  zákazníci používají, například s účetními programyKomunikace se zákazníky:
+  zjistit, co přesně zákazník potřebuje, a následně najít to správné řešeníNa co
+  se můžete těšit?Vedle slušného platového ohodnocení a měsíčních bonusů získáte
+  i další výhody. Děláme smysluplnou práci a zakládáme si na neformální
+  atmosféře bez zbytečné byrokracie. Flexibilní pracovní dobu bereme jako
+  standard. V tuto chvíli nabízíme pozici na poloviční úvazek, pokud ale bude
+  spokojenost na obou stranách, vždy je cesta, jak se domluvit.Své jazykové
+  dovednosti můžete vylepšovat s rodilými mluvčími na firemních lekcích
+  angličtiny a němčiny. Zapomeňte na openspace. Kanceláře jsme si sami navrhli
+  tak, aby se nám v nich dobře pracovalo. Budete mít klid na práci i místo, kde
+  si odpočinout a vyměnit dojmy. 3D tiskárna je neustále ve střehu a bez
+  kvalitní kávy a široké nabídky čajů by to nešlo. K obědu si v blízkém okolí
+  můžete vybrat ze všech koutů světa – od Asie až po klasickou českou kuchyni.
+  Pokud si nosíte obědy v krabičkách, máme u nás zázemí s jídelním koutem.
+  V rámci health day budete mít pravidelný přísun vitamínů formou ovocných
+  svačinek. Rádi si sníte oběd venku nebo se chcete během dne protáhnout? Park
+  Grébovka je pár metrů od naší kanceláře.Pokud chcete dělat pestrou
+  a smysluplnou práci v klidném prostředí a přátelském kolektivu, ozvěte se
+  nám.Těšíme se na vás.
+
+👤 Kontakt: Kristína Petrášová
+
+📞 Telefon: 605 369 220
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior AI Engineer – AI Assurance & Controls
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Deutsche Telekom Services Europe Czech Republic s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    We are looking for a Senior AI Expert – Applied AI & Assurance to strengthen
+  our international Control Testing Team (CTT) within Group ICS Management.CTT
+  provides independent assurance through the testing of internal controls across
+  the Deutsche Telekom Group. Your mandate will be to advance CTT’s transition
+  towards AI-enabled assurance and strengthen our capability to independently
+  assess AI-enabled processes, systems and controls.You will complement our
+  established controls and assurance expertise with strong applied AI expertise
+  and technical understanding. The role focuses on three connected
+  outcomes:applying AI to improve the quality, efficiency and insight of control
+  testing;enabling independent assessments of AI-enabled processes, systems and
+  controls; andstrengthening the consideration of AI-related risks and controls
+  within the ICS.This role is designed for an applied AI professional who also
+  brings a foundation in audit or assurance. As CTT’s AI subject-matter expert,
+  you will turn technological possibilities into reliable and practical
+  assurance solutions, enable experienced auditors to use AI effectively, and
+  bring technical expertise to assurance engagements.Which challenges you can
+  expect:Shape and drive CTT’s AI use-case roadmap. Identify and prioritize
+  opportunities based on assurance value, feasibility, risk and scalability, and
+  take selected use cases from concept through prototyping, evaluation and
+  piloting.Define practical evaluation criteria and guardrails for AI-enabled
+  testing approaches, including reliability, traceability, limitations,
+  monitoring and appropriate human oversight.Develop reusable methods, workflows
+  and guidance for AI-enabled control testing, and build CTT capability through
+  coaching, knowledge sharing and continuous improvement.Serve as the AI
+  subject-matter expert in independent assessments of AI-enabled processes,
+  systems and controls. Develop and apply risk-based approaches that translate
+  technical observations into relevant risks, control implications and evidence-
+  based conclusions.Provide subject-matter input to Business Units on AI-related
+  risks and control considerations.Monitor relevant technological, governance
+  and regulatory developments and translate them into practical updates to CTT’s
+  assurance approach and the ICS.Your skills:Must have:Several years of relevant
+  professional experience in applied AI, AI transformation, AI architecture,
+  AI/ML, data analytics or a comparable AI-focused field, with a demonstrated
+  track record of taking AI use cases from problem definition through
+  prototyping and evaluation to a validated pilot or operational use.Practical
+  experience in audit or assurance, gained for example in internal or external
+  audit, internal controls, or a comparable assurance environment.Experience
+  with AI governance, Responsible AI, AI risk management or relevant regulatory
+  frameworks.Strong practical understanding of modern AI systems, including
+  generative and agentic AI, and hands-on experience prototyping and evaluating
+  AI-enabled workflows.Ability to critically assess AI solutions, including
+  their design, data dependencies, performance, reliability, limitations,
+  failure modes, monitoring and human oversight.Ability to translate complex AI
+  topics into clear business and assurance implications, communicate credibly
+  with technical and business stakeholders, and enable auditors to apply the
+  resulting approaches effectively.Strong analytical and stakeholder-management
+  skills, with the ability to work autonomously, drive complex workstreams and
+  influence without formal authority in an international
+  environment.Professional working proficiency in English.What will you gain:We
+  want you to know that we value our employees and want to provide you with more
+  than just a job. As a valued member of our team, you will receive a range of
+  benefits that include:An annual financial bonusAn extra week of holiday (25
+  days/year), Up to 5 My days, and 1 day off for volunteeringAdditional paid
+  time offs for married couples/registered partnerships, parents on the first
+  day of school, extended paternity leave, and time-offs for foreigners dealing
+  with state office mattersFlexible working hours and the possibility to work
+  remotelyPension plan contributionFree refreshments (water, coffee, tea, milk,
+  and fruits available in the office)Company SharesAlza DiscountsCompany mobile
+  phone and laptopMeal vouchers in the amount of 160 CZK per working
+  dayA variety of Benefits (Cafeteria Plan, Multisport Card, Makro Card)A family
+  program with T-Mobile (discounts for employee’s family members and
+  friends)Training and qualification opportunities (access to the internal
+  learning HUB)Personal development opportunities (career path, job rotation,
+  Bring your own Project)Involvement in various activities supporting charity
+  organizations (Flea markets, volunteering days, food collections)A relocation
+  package for candidates coming from abroadOpportunities for relaxation and
+  wellness activities (massage chair, PlayStation 5, etc.)Fun team events such
+  as brunches, Health Day, and summer and holiday parties!At our company, we
+  believe in creating a positive work environment that values our employees'
+  well-being and development. If you are excited about this opportunity and want
+  to be part of a dynamic team that cares about its employees, send us your CV
+  in English and join us today!As a part of Deutsche Telekom Group, we ensure
+  not only work-life balance and international career opportunities but also
+  personal development opportunities. We support all individuals in their
+  performance, development, and growth. We offer a variety of trainings,
+  qualifications, and e-learning activities to actively support the rising of
+  common expertise.At Deutsche Telekom Services Europe Czech Republic, we are
+  proud to be an equal opportunity workplace and employer. We review
+  applications for employment without regard to their race, color, religion,
+  sex, sexual orientation, gender identity, national origin, ancestry,
+  citizenship, age, uniformed services, genetic information, physical or mental
+  disability, medical condition, marital status, or any other basis prohibited
+  by law. We welcome applicants from all backgrounds and strive to create
+  a workplace that is supportive, empowering, and inclusive.
+
+👤 Kontakt: Kateřina Fraňková
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Python Software Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: SQUAD CZECHIA s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Team SummaryOur team builds internal platforms and analytics tools designed to
+  enhance engineering productivity across the organization. We specialize in
+  creating automated systems that streamline workflows and provide actionable
+  insights through data-driven dashboards. Our team is highly independent and
+  self-sufficient, collaborating closely with various engineering groups. We
+  prioritize transparency, effective communication, and continuous
+  improvement.Job SummaryWe are looking for an experienced Python Software
+  Engineer with full-stack capabilities to join our team. In this role, your
+  primary focus will be creating and supporting backend services  integrated
+  with diverse data sources, with secondary responsibilities including web
+  dashboard development and frontend integration to support internal analytics
+  platforms.Responsibilities and DutiesDevelop new features and improve existing
+  onesExplore, build and validate POCsCollaborate with other engineering teams
+  to ensure the highest quality of solutionsDesign and implement data collectors
+  and ETL processes to integrate with various APIs (REST, GraphQL)Build and
+  manage serverless infrastructure using AWS CDK, Lambda, and related
+  servicesDevelop and maintain web dashboards for data visualizationIntegrate AI
+  and LLM capabilities into internal toolQualifications and SkillsStrong
+  proficiency in Python for backend development (asyncio, aiohttp)5+ years of
+  commercial software development experienceHands-on experience with AWS
+  Serverless (Lambda, CDK, RDS, S3, SQS/SNS)Experience with CI/CD pipelines,
+  continuous delivery, and DevOps practicesExperience in data engineering
+  (scraping, ETL, data pipelines)Experience with AI productivity tools (Cursor,
+  Claude Code, Codex, etc.)Excellent communication and collaboration skills,
+  with a focus on work in distributed teamsGood written and spoken EnglishNice
+  to haveHands-on expereinece with AI/LLM integration, prompt engineering, and
+  internal toolingFamiliarity with web frontend fundamentals (JavaScript, HTML)
+  to support full-stack requirementsWe offer multiple benefits that includeThe
+  environment of equal opportunities, a transparent and value-based corporate
+  culture, and an individual approach to each team memberCompetitive salary
+  packages with performance-based annual reviewsOpportunity to receive
+  a Performance Bonus for your individual achievements and a Loyalty Bonus
+  recognizing your dedication to the companyEmployment under a Contract of
+  Employment (HPP) in full compliance with Czech Labour LawGuaranteed paid
+  vacation, public holidays, and medical leaves as per statutory regulationsFull
+  state health insurance and social security contributions as per statutory
+  regulationsContinuous growth and development opportunities through internal
+  knowledge hubs, corporate courses, and free English classesHigh-end hardware
+  and all necessary devices provided to ensure a comfortable and efficient work
+  environment.
+
+👤 Kontakt: Maryna Kucheruk
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Seniorní vývojář TypeScript / Technický vedoucí týmu
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: PŘEDVÝBĚR.CZ a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Pro našeho klienta, brněnskou technologickou a inženýrskou společnost
+  zaměřenou na energetiku, která vyvíjí a dodává simulační a řídicí systémy
+  včetně pokročilých simulátorů pro jaderné elektrárny, hledáme nového
+  kolegu/kolegyni na poziciTechnický vedoucí skupiny SW podpory.Náplň
+  práce:Technické vedení vývoje a určování technického směru týmuOdpovědnost za
+  technickou kvalitu, stabilitu a dlouhodobou udržitelnost řešeníNávrh
+  architektury desktopových aplikací a implementačních postupůRozdělení
+  komplexních řešení do jednotlivých etap a jejich technické řízeníImplementace
+  komplexních a kritických částí systémuVyhodnocování technologických variant
+  a souvisejících rizikSpolupráce s dalšími vývojovými týmy a zainteresovanými
+  stranamiVedení a rozvoj týmu, který aktuálně tvoří 9 lidíOčekáváme:Zkušenosti
+  s vývojem softwaru a schopnost převzít odpovědnost za technické
+  řešeníSchopnost samostatného rozhodování a určování technického směruZkušenost
+  s návrhem desktopových aplikací, systémů zpracovávajících data v reálném čase
+  a relačních datových modelůZnalost technologií TypeScript, Node.js,
+  JavaScript, React/Svelte a Electron, případně ochotu se v nich dále
+  rozvíjetZnalost databází PostgreSQL a SQLDobré komunikační schopnosti
+  a schopnost vést a rozvíjet kolegyZnalost síťové komunikace a komunikačních
+  protokolůOrientaci v oblasti SVG a interaktivních vizualizacíZkušenosti
+  s výkonnostními optimalizacemi, zátěžovým testováním, diagnostikou a provozní
+  telemetriíSchopnost identifikovat rizika a navrhnout realistické a dlouhodobě
+  udržitelné řešeníOchotu pracovat z kanceláře v BrněVýhodou:Znalost Pythonu,
+  C#, C nebo C++Zkušenost s databázovými materializovanými pohledy, funkcemi,
+  procedurami a triggeryZkušenost s integrací aplikací s nativními výpočetními
+  systémyZnalost binárních komunikačních protokolůZkušenost s modernizací nebo
+  migrací starších systémůNabízíme:Práci na produktech s reálným dopadem na
+  kritickou infrastrukturuStabilní zázemí v rámci Skupiny ČEZAdekvátní finanční
+  ohodnocení a významné finanční bonusyMožnost odborného i profesního růstu
+  a dlouhodobého kariérního rozvojePříspěvek na penzijní pojištění, životní
+  připojištění nebo DIP ve výši 4 166 Kč měsíčněFlexibilní pracovní dobu5 týdnů
+  dovolenéPříspěvek na stravováníPříspěvek na výuku angličtinyMožnost dalšího
+  vzdělávání a profesního rozvojeModerní pracovní nástroje a přátelský týmOdměny
+  při životních a pracovních výročíchPráci v kancelářích vBrněPokud Vás tato
+  nabídka zaujala, zašlete nám Váš strukturovaný životopis. Budeme Vás
+  v nejbližší době kontaktovat.Společnost PŘEDVÝBĚR.CZ a.s. si vyhrazuje právo
+  nekontaktovat kandidáty, kteří nebudou splňovat výše uvedené požadavky.Výhodou
+  spolupráce s námi je rychlost! S našimi konzultanty absolvujete pouze
+  telefonický pohovor!Odpovědí na tento inzerát souhlasím, aby společnost
+  PŘEDVÝBĚR.CZ a.s., sídlem Na Kozačce 1289/7, Praha 2, zpracovávala mé osobní
+  údaje pro účely zprostředkování práce v souladu se zákonem č. 110/2019 Sb.,
+  a to až do odvolání písemnou formou.
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Backend Developer for Quantum integration
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Vysoká škola báňská - Technická univerzita Ostrava
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    We are seeking new colleagues to join our team and develop modern services and
+  on-line platforms. IT4Innovations National Supercomputing Center is a leading
+  research, development, and innovation centre active in the fields of High-
+  Performance Computing (HPC), Data Analytics (HPDA), Artificial Intelligence
+  (AI), and Quantum Computing (QC) and their applications. IT4Innovations is
+  a member of the consortium which operates the largest European supercomputer
+  LUMI. For more details, see www.it4i.eu.We are expanding our team with a new
+  position focused on developing a complex service that provides easy access to
+  various quantum computers across Europe, with a particular focus on the needs
+  of quantum machine learning algorithms. This position is aimed at Python
+  backend developers who are eager to work with different quantum computing
+  stacks and HPC systems. The role involves developing an SDK that enables users
+  to submit and execute quantum machine learning workloads across different
+  quantum computing resources. Experience with quantum computing and HPC
+  environments is an advantage.We are hiring for the following position within
+  our organizational structure:Innovation Technology Developer.Activity
+  description:development of python package providing access to quantum
+  computers,integration of complex service with various quantum machine software
+  stacks,communication with the development team and participation on feature
+  design.Full time equivalent: 0,5 - 1,0Type of job contract: fixed-term
+  employmentExpected start of employment: 1.11.2026 or as agreedWe
+  require:experience with data processing development in Python,experience with
+  Machine Learning algorithms and LLMs,knowledge of common techologies like REST
+  APIs, computer networks basics and web authentication methods,version control
+  (Git) and software artifacts handling in containerised environment
+  (Docker),good communication skills in the English language both spoken and
+  written,master's degree in related field.Candidate advantage:background in
+  physics or quantum computing,proven work experience in related domain.We
+  offer:work in a friendly team with diverse skills fostering open and efficient
+  communicationflexible working hours and home officesalary evaluation according
+  project conditions and candidate's experience,modern tech stack (Python, .NET
+  Core, React.js, OpenID, object storages),opportunity to work with cutting edge
+  computing technologiespossibility of further education,6 weeks of
+  holidays,university kindergarten,contribution option to pension plan,company
+  catering in the canteen,MultiSport card,other employee benefits according to
+  the employer's offer (shopping, R&R)Your personal data will be processed to
+  the extent necessary for the implementation of the selection procedure in
+  accordance with EU Regulation
+  2016/679.https://www.vsb.cz/export/sites/vsb/en/.content/files/Informace-pro-
+  uchazece-o-zamestnani-AJ.pdfThe application form substantiated with a letter
+  of motivation and CV should be sent electronically until21. 10. 2026.
+
+👤 Kontakt: Petra Brožová
+
+📞 Telefon: 597 329 620, 604 542 661
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Integrační vývojář
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Prusa Research a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Jsme PRUSA. V pražských Holešovicích vyvíjíme 3D tiskárny, na které spoléhají
+  firmy jako SpaceX nebo Škoda Auto i statisíce nadšenců po celém světě. Obor 3D
+  tisku roste velmi rychlým tempem a my jsme na jeho špici!  Aby s tímto tempem
+  dokázaly držet krok i naše interní systémy a vše šlapalo jako hodinky, hledáme
+  k nám Integračního vývojáře.Koho hledáme?Hledáme parťáka nebo parťačku do
+  malého, technicky šikovného týmu, který vyvíjí interní nástroje a systémy pro
+  celou firmu. Pokud máš chuť dělat smysluplné věci na pomezí softwaru
+  a hardwaru, umíš si práci zorganizovat a nebojíš se odpovědnosti, čti dál!Kdo
+  jsme my?Jsme tříčlenný tým, který vyvíjí integrační řešení a nástroje pro
+  interní potřeby Prusa Research. Nepíšeme věci „do šuplíku“, ale pro reálné
+  kolegy napříč firmou ať už jde o výrobu filamentů nebo tiskáren. Setkáš se se
+  skripty sbírajícími data ze senzorů a z částí linek či testerů komponent
+  a ukládajícími výsledky do databáze. Také tě může potkat třeba úprava webové
+  aplikace pro nastavování či monitoring výroby. Nezůstaneš jen u kódu. Při
+  propojování softwaru s hardwarem pro potřeby našich provozů bude občas potřeba
+  fyzicky nainstalovat a zapojit interní elektronická zařízení, jako jsou čtečky
+  nebo čidla. Máš-li přesah do elektroniky, jsi náš člověk!Máme rádi svůj čas,
+  takže pracujeme efektivně. A i když toho stíháme hodně, vždycky se najde
+  prostor si z práce udělat i trochu zábavu.Co od tebe očekáváme?Must-
+  have:Znalost programování v PythonuZkušenosti s používáním GituSamostatnost,
+  schopnost domluvit se se „zákazníkem“ a dotáhnout věci do konceUmění sdílet
+  zkušenosti v týmu a nebát se udělat chybuNice-to-have (aneb co se hodí
+  navíc):Přesah do světa IoT, mikrokontrolérů a elektroniky, KiCADProgramování
+  v Céčku (ESP32, Arduino)Zkušenost s Linuxovým shellem, Django/Flask, SQL
+  (PostgreSQL)Co tě u nás čeká?Analýza potřeb interních zákazníků napříč firmou
+  (SW i HW požadavky)Vývoj SW řešení na míru – psaní podpůrného softwaru pro
+  nové i stávající technologické celky napříč firmouVývoj nových a úprava
+  stávajících funkcí našich interních nástrojůIntegrace podnikových nástrojů–
+  propojování přístupového a docházkového karetního systému na centrální
+  databáziInfrastrukturní napojení– integrace interních služeb a systémů do
+  firemních autentizačních systémůTestování a telemetrie– zajištění spolehlivého
+  sběru dat z testovacích stanic pro kontrolu kvalityBugfixing – občas se něco
+  pokazí, ale máme to pod kontrolouSpolupráce s kolegy z různých oddělení, kteří
+  budou tvoji „zákazníci“Co ti nabízíme?Skvělý kolektiv, který tě vezme mezi
+  sebe a žije 3D tiskemRychlé a smysluplné projekty bez zbytečných
+  byrokratických kolečekMožnost podílet se na zlepšování nástrojů, které
+  ovlivňují celou firmuPráci v moderním prostředí technologické firmy, která má
+  celosvětový dopadUnikátní firemní kulturu, přímý kontakt s nadřízenými
+  a flexibilní pracovní dobu.Přístup do Prusalabu, té nejlepší dílny na
+  světě.Stravenky formou paušálu20 dnů dovolené, 5 dnů zdravotní dovolené, 3
+  sick days.Slevy na vybrané partnerské e-shopyTeambuildingy na zámku, na
+  horách, možnost rekreace v apartmánech v AdršpachuChcete si pohladit alpaky
+  nebo ochutnat med od našich včel? Není problém, máme!Příspěvek na jazykové
+  vzdělávání, osobní rozvoj a hromadu dalších zaměstnaneckých benefitů.Pokud
+  jsme tě zaujali, pošli nám svoje CV. Budeme rádi, když rovnoupřipojíš ukázku
+  projektu z oblasti elektroniky.Může jít o práci v rámci školy nebo třeba IoT
+  vylepšení domácnosti.Proč si vybrat Prusa Research?Jsme česká firma, nemáme
+  zahraniční vlastníky a ani do budoucna neplánujeme vstup investora nebo nějaké
+  vlastnické veletoče. Majitelé firmy, Josef Průša, jeho bratr Michal a jejich
+  jmenovec Ondřej, jsou v centru všeho dění - firmě se věnují na denní bázi a i
+  vy s nimi budete pravidelně v přímém kontaktu.Začali jsme před dvanácti lety
+  v jednom smíchovském sklepě. Teď je nás víc než 1 000 a pořád rychle rosteme.
+  V roce 2024 jsme tržbami přesáhli 3,6 miliardy korun a chceme dále růst. Hodně
+  si slibujeme od nových tiskáren a dalších projektů, na kterých naše vývojové
+  oddělení usilovně pracuje tak, aby byly co nejdříve v prodeji.Nezavádíme
+  zbytečná nařízení jen proto, že se to tak “dělá všude”, ale jen tam, kde je
+  opravdu potřebujeme. Všichni si tykáme, na chodbách můžete kdykoliv odchytit
+  Josefa Průšu nebo kohokoliv jiného z vedení, pokecat a probrat aktuální
+  problém.Když tvrdíme, že působíme po celém světě, nepřeháníme. Na naše
+  tiskárny narazíte na všech kontinentech a ve více než 165 zemích (podívejte se
+  na mapu). Naší velkou výhodou je to, že všechny tiskárny prodáváme napřímo,
+  přes náš e-shop. Máme tak přímý kontakt se zákazníky a dostáváme okamžitý
+  feedback. A poznatky z něj hned promítáme do vývoje.Nejsme žádní „posouvači
+  krabic”, kteří si nechají zboží vyrobit v Číně a pak jej jenom přeprodávají.
+  Tiskárny vyrábíme přímo u nás v Holešovicích, kde zároveň vyvíjíme i nové
+  modely, programujeme firmware a software a vyrábíme filamenty. Aktuálně
+  rozjíždíme i vstřikolisovou výrobu a osazovací linku plošných spojů, abychom
+  byli ještě soběstačnější.Nekašleme na svět kolem nás. Hodně řešíme i téma
+  ekologické udržitelnosti a odpovědnosti firem. Podnikáme kroky k využití 3D
+  tisku k řešení současných sociálních a environmentálních problémů.
+
+👤 Kontakt: Alena Sanders
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior AI Solution Architect
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: NN
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Machine Learning Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Melown Technologies SE
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Robotics Engineer | Robotický inženýr | Full remote (home office)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: High Tech Engineering Center s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Nadchly vás digitální dvojčata (Digital Twins) a robotika? Ve společnosti HTEC
+  budujeme budoucnost inteligentních strojů pomocí vlastních čipů, které umožní
+  vznik nové generace mobilních robotů a humanoidních systémů.Jako Robotics
+  Engineer budete stát v čele této transformace. Budete pracovat
+  s nejmodernějšími technologiemi, jako jsou ROS2 a NVIDIA Omniverse, a vytvářet
+  vysoce realistická, škálovatelná simulační prostředí. Tato prostředí budou
+  sloužit pro vývoj, testování a nasazování robotických systémů nové generace
+  napříč různými odvětvími.Budete spolupracovat s multidisciplinárním týmem
+  inženýrů, výzkumníků a specialistů na vývoj inteligentních systémů a simulovat
+  reálné podmínky, které urychlí vývoj robotické inteligence běžící na vlastních
+  AI čipech. Pokud vás baví simulace, robotika a umělá inteligence a chcete se
+  podílet na projektech s reálným dopadem, tato role je určena právě vám.Co bude
+  vaší náplní práceNávrh, vývoj a údržba simulačních prostředí pro robotické
+  systémy zaměřené na vnímání okolí (perception) a autonomní navigaci mobilních
+  robotů.Vývoj a integrace robotického chování a trénovacích pipeline pro
+  reinforcement learning a plánování pohybu v komplexních venkovních
+  prostředích.Spolupráce s multidisciplinárními týmy při validaci robotických
+  algoritmů v simulačních prostředích.Optimalizace výkonu simulací pro rozsáhlé
+  trénování a testování, včetně cloudových nasazení.Koho hledámeVysokoškolské
+  vzdělání (Bc. nebo Mgr./Ing.) v oblasti robotiky, informatiky, strojírenství
+  nebo příbuzném oboru.Zkušenosti s frameworkem ROS2.Praktické zkušenosti s ROS2
+  Navigation Stack: RTAB-MAP, NAV2, ROS Control, Behavior Trees-Dobrá znalost
+  programování v Pythonu a C++.Pokročilé znalosti mobilních robotických systémů,
+  včetně: kinematiky, dynamiky, řízení a regulace.Zkušenosti s tvorbou
+  digitálních dvojčat a simulačních prostředí. Může jít například o: Isaac Sim,
+  Gazebo, MuJoCo, CoppeliaSim, Unity.Zkušenosti s modelováním a simulací senzorů
+  v digitálních dvojčatech, například: GNSS/GPS, kamery, IMU senzory, odometrie
+  kol, další robotické senzory.Znalost testování a validace robotických
+  algoritmů v simulaci a schopnost řešit rozdíly mezi simulovaným a reálným
+  prostředím (sim-to-real gap).Výhodou budeZkušenost s OpenUSD (Universal Scene
+  Description) a vývojem rozšíření pro NVIDIA Omniverse.Praktické zkušenosti
+  s nemobilními robotickými systémy, například:Universal Robots, KUKA, Denso,
+  humanoidní roboti.Znalosti oblasti strojového učení nebo reinforcement
+  learningu v robotice a počítačovém vidění, například: vizuální odometrie,
+  extrakce příznaků, loop closure, segmentace obrazu.Zkušenosti s frameworky:
+  PyTorch,TensorFlow,Keras.Zkušenosti s CI/CD procesy, automatizací simulací
+  a zaváděním HIL (Hardware-in-the-Loop) testování.Zkušenosti s cloudovými
+  platformami (AWS, Azure) pro distribuované simulace.Proč HTEC?Budete vyvíjet
+  technologie, které pomáhají formovat budoucnost autonomních robotů
+  a humanoidních systémů.Zapojíte se do vývoje vlastních AI čipů pro robotické
+  aplikace.Stanete se součástí mezinárodního týmu špičkových odborníků.Budete
+  pracovat s nejmodernějšími technologiemi v oblasti robotiky, simulací a umělé
+  inteligence.Hybridní způsob spolupráce a vysoká míra flexibility.Stabilní
+  mezinárodní technologická společnost s dlouhodobými a inovativními
+  projekty.Zaujala vás tato příležitost? Přidejte se k HTEC a podílejte se na
+  vývoji robotů nové generace.Prosím o zasláníCV v angličtině, děkuji.
+
+👤 Kontakt: Lucie Kaminská - Talent Acquisition Specialist
+
+📞 Telefon: 720 067 440
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 AI Solution Architect | Od RAG po AI agenty pro moderní bankovnictví
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Profinit EU, s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Hledáme zkušené Solution Architekty pro několik projektů zaměřených na využití
+  AI v enterprise prostředí. Podle konkrétního projektu půjde o návrh
+  rozsáhlejších RAG řešení, agentních workflow pro automatizaci business procesů
+  nebo využití AI při automatizaci a rozvoji existujících softwarových
+  systémů.Budeš se podílet na návrhu a rozvoji interních AI platforem a řešení
+  využívaných dalšími týmy v organizaci. Čeká tě kombinace moderních AI
+  technologií, enterprise architektury, systémových integrací, bezpečnosti
+  a práce se stakeholdery.Co u nás budeš dělatNavrhovat a rozvíjet architekturu
+  AI platforem a enterprise AI řešení.Podle konkrétního projektu se věnovat RAG
+  architekturám, agentním workflow, business automatizaci nebo automatizaci
+  existujících SW systémů.Definovat technologickou roadmapu a podílet se na
+  klíčových architektonických rozhodnutích.Navrhovat integrační řešení pro
+  propojení AI s podnikovými systémy, aplikacemi a znalostními bázemi.Navrhovat
+  způsob získávání, zpracování a zpřístupnění dat a znalostí pro AI
+  řešení.Nastavovat pravidla pro řízení přístupu a zajišťovat bezpečné nakládání
+  s daty.Podílet se na kvalitě AI výstupů, návrhu ochranných mechanismů
+  a minimalizaci rizik spojených s využitím generativní AI.Navrhovat a rozvíjet
+  agentní workflow a AI automatizace.Spolupracovat s dalšími týmy a stakeholdery
+  na návrhu řešení a jeho začlenění do stávajícího enterprise prostředí.Dohlížet
+  na to, aby navržená řešení splňovala požadavky na bezpečnost, spolehlivost
+  a provozní připravenost.Koho bychom si představovaliMáš zkušenosti s návrhem
+  enterprise architektur, distribuovaných systémů a systémových
+  integrací.Dokážeš převést business požadavky do technického návrhu, obhájit
+  své architektonické rozhodnutí a komunikovat s technickými i business
+  stakeholdery.Máš zkušenosti s návrhem nebo implementací AI / GenAI řešení
+  v enterprise prostředí.Orientuješ se alespoň v některé z oblastí jako RAG,
+  agentní architektury, AI orchestrace nebo automatizace business a softwarových
+  procesů.Orientuješ se v oblasti API integrací, identity managementu a řízení
+  přístupových práv.Rozumíš bezpečnostním a regulatorním požadavkům souvisejícím
+  s AI a prací s daty.Máš zkušenosti s technologiemi Microsoft Azure a moderním
+  AI stackem.Výhodou je znalost Azure AI Search, Terraformu, CI/CD nebo Azure
+  API Managementu.Máš češtinu/slovenštinu na úrovni C2 a dokážeš komunikovat
+  v angličtině.Co nabízímePreferovaně spolupráci na HPP, ale možná je
+  i spolupráce na IČO.Hybridní mód práce v Praze s docházkou 2-3x
+  týdně.Zaměstnání v přední softwarové firmě s dobrým jménem na trhu.Podporu
+  vzdělávání na platformě Udemy a možnost získávat certifikace.BenefityNeomezená
+  dovolená – 4 týdny zákonné dovolené + další placené volno bez stanoveného
+  ročního limitu.Sick Days – 10 dnů ročně.Ročně příspěvek 12 000 Kč k využití
+  dle tvých preferencí – na důchodové či životní pojištění, MultiSportku nebo
+  Benefity Café.Mobilní tarif s neomezeným voláním v ČR a neomezenými daty i pro
+  soukromé účely.Příspěvek na stravování 116 Kč / odpracovaný den.Notebook dle
+  vlastní preference – macOS nebo Windows.Zájmové skupiny – hokej, běh, firemní
+  kapela, bojové sporty, deskové hry, šachy nebo bowling.ESPP – možnost
+  nakupovat akcie společnosti Amdocs (DOX) za zvýhodněnou cenu.
+
+👤 Kontakt: Barbora Kabátová
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 IT Application Specialist
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: MONET+,a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Data Engineer with Python
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: R4U s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Software Lead Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: ABB s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Workato Integration Engineer | Salesforce & Cloud Integrace | HO + flexibilita
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Jobs Contact Personal, s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Pokud máš za sebou reálnou práci sWorkatem, Salesforce integracemi
+  a APIa chceš dělat integracemi ve větším měřítku, tahle role stojí za
+  pozornost. Budeš navrhovat a rozvíjetautomatizovaná workflow, propojovat
+  enterprise aplikace a hledat technická řešení, mají přímý dopad na fungování
+  firmy.K tomu dostanešflexibilitu, home office, až 30 dní dovolené, workation
+  a další benefity, které dávají smysl i mimo samotnou pracovní náplň.Co tě
+  čeká:Tvorba, úprava a nasazováníWorkato recipespro automatizaci procesů mezi
+  firemními aplikacemiIntegraceSalesforcea dalších cloudových aplikacíNávrh
+  datových toků, mapping a transformace dat mezi jednotlivými systémyPráce
+  s integračními technologiemi(např. REST/SOAP API, webhooks, OAuth,
+  JSON/XML)Monitoring, troubleshooting a řešení error handlingu, retry logiky
+  a dalších integračních problémůKoho hledáme:Praktická zkušenost
+  sWorkatemZkušenost sintegracemi Salesforce(výhodou zkušenost s Netsuite)Praxi
+  v oblastienterprise integrací / iPaaSDobrou orientaci vREST/SOAP API, JSON/XML
+  a datových transformacíchSchopnost samostatně analyzovat problém, navrhnout
+  řešení a dotáhnout ho do funkčního výsledkuCo Vám nabízíme:Více než 5 týdnů
+  dovolenéFlexibilita, home officePříspěvek na stravování, sport, vzdělávání
+  a další možnostiBonusy a prémieStabilní mezinárodní prostředí + moderní
+  technologieZaujalo Vás to? Zašlete nám své CV v AJ.
+
+👤 Kontakt: Simona  Šimánková
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Test Automation Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Skupina ČEZ
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 AI Engineer for Dataclair AI Centre (m/f)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: O2 Czech Republic a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Linux SW Stack Developer | C/C++, Python a kamerové technologie
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: CoolPeople Technology a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Pro našeho klienta, stabilní mezinárodní technologickou společnost, hledáme
+  zkušenéhoLinux SW Stack Developera, který se zapojí do vývoje softwaru pro
+  zpracování obrazu a kamerových dat.Máte zkušenosti sintegrací softwarového
+  stacku ISP zařízení do upstreamované linuxové platformy – včetně libcamera,
+  V4L, driverů a middleware?Chcete se podílet na vývoji nových funkcionalit,
+  spolupracovat s open-source komunitou a ovlivňovat kvalitu obrazu ve finálním
+  produktu? Pak pro vás máme zajímavou příležitost v novém a rostoucím týmu.Co
+  vás na pozici čeká?Integrace softwarového stacku ISP zařízení do upstreamované
+  linuxové platformy, zejména libcamera, V4L, driverů a middleware.Vývoj
+  algoritmů pro zpracování obrazu a kamerových dat.Implementace interně
+  vyvíjených funkcionalit do upstreamové verze Linuxu a optimalizace jejich
+  efektivity.Odpovědnost za proces upstreamingu a následnou údržbu integrovaných
+  řešení.Spolupráce a komunikace s open-source komunitou.Spolupráce na návrhu
+  hardwaru a softwaru (HW/SW co-design) a specifikaci požadavků pro linuxovou
+  platformu.Zajišťování kvality obrazu (Image Quality) ve finálním
+  produktu.Vývoj demo aplikací pro prezentaci a ověřování kvality obrazu, včetně
+  měření KPI a IQ.Komunikace se zákazníky a dalšími stakeholdery a technická
+  podpora v oblasti kvality obrazu.Aktualizace a údržba technické dokumentace.Co
+  od vás očekáváme?Zkušenosti s integrací ISP softwarového stacku do
+  upstreamované linuxové platformy, včetně libcamera, V4L, driverů
+  a middleware.Alespoň4 roky praxe, ideálně 5 a více, s programováním v C/C++
+  a Pythonu, se zaměřením na Linux.Pokročilou znalostC/C++,zejména pro embedded
+  vývoj.Zkušenosti supstream vývojem a spoluprací s open-source
+  komunitou.Vysokoškolské vzdělání v informatice, elektrotechnice, zpracování
+  obrazu, počítačovém vidění nebo příbuzném oboru, ideálně magisterské.Výborné
+  analytické myšlení, schopnost řešit technické problémy a samostatně plánovat
+  a organizovat práci.Komunikativní angličtinupro spolupráci s mezinárodními
+  týmy a zákazníky.Co bude výhodou?Zkušenosti s embedded systémy.Znalost
+  digitálního zpracování obrazového signálu a měřeníImage Quality
+  (IQ).Zkušenosti nebo zájem oMachine Learning a AI.Zkušenosti s projektovým
+  řízením, vedením nebo rozvojem týmu.Zájem o zpracování obrazu, fotografii
+  a související technologie.Co vám nabídneme?Práciv novém a rostoucím
+  týmus přátelskou atmosférou a důrazem na spolupráci.Možnost hodnotit a zavádět
+  nové technologie, podílet se na technologických roadmapách a ovlivňovat podobu
+  výsledných řešení.Prostor proosobní i profesní růst.Spolupráci smezinárodními
+  týmy a odborníky, možnost prezentovat vlastní práci a cestovat.Zázemí
+  stabilní, dlouhodobě rostoucí mezinárodní technologické společnosti.Flexibilní
+  pracovní režim s možností práce z domova.Nástup: co nejdříve, případně dle
+  dohody.Zaujala vás tato příležitost? Pošlete nám svůj životopis a rádi s vámi
+  probereme podrobnosti.
+
+👤 Kontakt: Sára Prokešová
+
+📞 Telefon: +420 734 619 151
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior AI Engineer for Dataclair AI Centre (m/f)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: O2 Czech Republic a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Machine Learning Engineer | MLOps (m/ž)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: TIPSPORT
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Machine Learning využíváme v klíčových oblastech Tipsportu. Naše
+  pravděpodobnostní modely jsou jedním ze základních pilířů kurzové nabídky
+  a pracují s velkým množstvím dat v produkčním prostředí.Hledámeseniorního ML
+  Engineera, který nám pomůže dostávat ML projekty spolehlivě do produkce
+  a dlouhodobě je provozovat. Budeš mítprostor ovlivňovat architekturu, rozvíjet
+  naši MLOps platformu a rozhodovat, jaké řešení dává smyslz pohledu výkonu,
+  nákladů i rychlosti dodání.Nehledáme člověka, který pouze implementuje
+  připravená zadání. Očekáváme, že se bude ptát, zda řešíme správný problém,
+  porovná možné varianty a dokáže obhájit i jednodušší řešení, pokud je pro
+  danou situaci nejlepší.Co bude tvá role obnášet?převezmeštechnickou
+  odpovědnost za ML projektyod návrhu až po stabilní produkční provoznavrhneš
+  architekturu ML systémůa zvolíš vhodné technologie s ohledem na přínos,
+  složitost, provozní rizika a nákladyrozvineš našeMLOpsnástroje, společné
+  knihovny, šablony služeb a postupy pro deployment a monitoringnastavíš
+  a průběžně zlepšíš observabilitu ML služeb, kvalitu dat, provozní metriky
+  i řešení incidentůve spolupráci s platformním a DevOps týmem zajistíš
+  spolehlivost produkčních řešenípomůžeš ML kolegům převádět modely a prototypy
+  do udržovatelných produkčních systémůpovedeš technická review, nastavíš
+  standardy a budeš sdílet zkušenosti napříč týmemidentifikuješ příležitosti ke
+  zjednodušení, standardizaci a efektivnějšímu provozu našich řešeníTvé klíčové
+  dovednosti a zkušenosti?velmi dobrou znalost Pythonua zkušenost s vývojem
+  udržovatelných produkčních aplikacízkušenost s návrhem architektury
+  distribuovaných nebo datově orientovaných systémůpraktickou zkušenost
+  sDockerem, Kubernetes a Helmemzkušenost s nasazováním, monitoringem a provozem
+  produkčních služebznalost principůMLOpsa životního cykluML řešení(od dat
+  a experimentu přes evaluaci i verzování až po nasazení
+  s monitoringem)schopnost vyhodnotit technické varianty a srozumitelně
+  vysvětlit jejich přínosy, rizika a nákladysamostatnost a schopnost převzít
+  odpovědnost za výsledek, nejen za vytvořený kódochotu konstruktivně rozporovat
+  zadání a hledat řešení odpovídající skutečnému problémudobrou komunikaci s ML
+  specialisty, vývojáři, platformním týmem i byznysovými zadavatelischopnost
+  pracovat s technickou dokumentací v angličtiněPočet let praxe pro nás není
+  hlavním kritériem.Zajímá nás především, jaká produkční řešení jsi navrhoval,
+  jaká rozhodnutí jsi dělal a za jaké výsledky jsi nesl odpovědnost.Co ti u nás
+  přinese bonusové body?zkušenost s ArgoCD, Jenkinsem nebo obdobnými CI/CD
+  nástrojizkušenost s Kafka, SQL a NoSQL databázemi nebo datovými
+  pipelineznalost Promethea, Grafany a principů observabilityzkušenost
+  s monitoringem kvality dat a chování ML modelůorientace v pravděpodobnostních
+  modelech, sportovních datech nebo kurzovém sázenízkušenost s tvorbou interních
+  vývojářských platforem, knihoven nebo standardůCo ti nabízíme?přímý vliv na ML
+  systémy, které podporují jednu z klíčových oblastí podnikání
+  Tipsportutechnické problémy spojené s velkým množstvím dat a produkčním
+  provozemmožnost ovlivnit architekturu, MLOps platformu i způsob, jakým ML
+  projekty vznikají a fungujíspolupráci se zkušenými ML specialisty
+  i vývojářiprostor prosazovat pragmatická řešení a měnit věci, které nedávají
+  technický nebo ekonomický smyslOdměnou ti bude:smlouvu na dobu
+  neurčitoupříspěvek na stravování 180 Kč denně5 týdnů dovolené3 sick
+  days/rokhome officeodborná školení a vzdělávánípříspěvek
+  na penzicafeterieposilovnu na pracovištibenefity v podobě telemedicíny,
+  psychologické péče a právní poradnypráci v super kolektivu v Berouně (20 min
+  od stanice metra Nové Butovice)Teď už je to na tobě. Pošli nám svůj životopis
+  a pojď s námi měnit svět sázení.Těšíme se, až tě poznáme!
+
+👤 Kontakt: Adéla Pudil
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Machine Learning Specialist (m/ž)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: TIPSPORT
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Hlavním úkolem oddělení Machine Learning je aplikovat Machine Learning
+  v klíčových oblastech Tipsportu. Naší prioritou je využití Machine Learningu
+  ve strategických oblastech, které podporují další růst společnosti.Proto
+  hledáme posiluzkušeného Machine Learning specialisty, který se bude starat
+  o tvorbu a integraci ML modelů v oblastech personalizace, kurzového sázení
+  i risk managementu.Máš ambici posunout svou senioritu na vyšší úroveň? I to je
+  u nás ve hře. Postupně dostaneš prostor převzít větší odpovědnost a časem
+  i vést menší tým dvou až tří specialistů.V čem bude spočívat tvá nová
+  role?tvorba a navrhování architektury Machine Learning modelůpro širokou
+  oblast problémů od kurzového sázení a risk managementu až po zpracování videa,
+  personalizaci a vytváření chatbotůintegrace Machine Learning modelů se
+  statistickými modely pro tvorbu kurzůaktivní předávání know-how v rámci
+  týmuTvé klíčové dovednosti a zkušenosti?pokročilá znalost principůfungování ML
+  modelůzkušenost s tvorbou a vedenímML projektůznalost programování
+  vPythonuzkušenosti s použitím některých běžných ML knihoven -PyTorch,
+  TensorFlow, scikit, atd.velmi dobré komunikační schopnostipochopení byznysové
+  stránky projektůangličtina na dostatečné úrovni – schopnost rozumět odborným
+  textům z oboruMachine Learning/AICo by bylo super?VŠstudiuminformatiky,
+  matematiky či fyziky v oblasti ML/AIznalost PyTorch, Jax apod.znalost
+  matematické statistiky, teorie pravděpodobnosti apod.zkušenosti s aplikací
+  Machine Learning přístupů v oblasti kurzového sázení a risk managementuCo ti
+  nabízíme?smlouvu na dobu neurčitoupříspěvek na stravování 180 Kč denně5 týdnů
+  dovolené3 sick days/rokhome officeodborná školení a vzdělávánípříspěvek
+  na penzicafeterieposilovnu na pracovištibenefity v podobě telemedicíny,
+  psychologické péče a právní poradnypráci v super kolektivu v Berouně (20 min
+  od stanice metra Nové Butovice)Líbí? Dej nám o sobě vědět, budeme se těšit :)
+
+👤 Kontakt: Adéla Pudil
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior AI Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: NN
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Java & Python Developer (medior)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: KBC Global Services NV
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Embedded Software Developer – Python/Linux
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Thermo Fisher Scientific
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Specialista IT integrací | Modení cloudové technologie
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Jobs Contact Personal, s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Vyznáš se vSalesforce?Máme tu 4 projekty - vyber si!Baví tě propojovat systémy
+  a automatizovat jejich komunikaci?Chceš pracovat namoderních cloudových
+  integracícha podílet se na tom, aby spolu různé firemní aplikace spolehlivě
+  komunikovaly?Hledámespecialistu IT integrací, který se orientuje v systémové
+  komunikaci, API a integrační logice. Čeká tě návrh a realizace integračních
+  řešení, práce s cloudovými aplikacemi a platformouWorkato.Nejde o čistý
+  backend development ani klasický support. Hledáme člověka, který rozumí
+  tomu,jak spolu systémy komunikují, jak přenášet a transformovat data a jak
+  integrační řešení nastavit tak, aby fungovalo spolehlivě a dlouhodobě.Co
+  budete dělat:Navrhovat, vytvářet a nasazovat integračníworkflowPropojovatrůzné
+  cloudové a enterprise aplikacePracovat sREST/SOAP API, webhooks, OAuth
+  a datovými transformacemiŘešit různé technické výzvySpolupracovat s dalšími
+  technickými a business týmyKoho hledáme:Máš alespoň2 roky zkušeností
+  s integracemi, iPaaS nebo podobnou oblastíOceníme praktickou zkušenost
+  s Workatem a tvorbou workflow/recipesOrientuješ se vAPI, JSON/XML a datových
+  transformacíchUmíš pracovat alespoň s jedním skriptovacím jazykemDokážeš
+  samostatně analyzovat požadavek, navrhnout řešení a dotáhmout ho do funkčního
+  výsledkuAJ-dobrá komunikativní úroveň, budeš spolupracovat i s kolegy
+  v mezinárodním prostředíNJvelmi ocenímeVýhodou:Máš zkušenost sCRM/ERP systémy,
+  například Salesforce a dalšími enterprise aplikacemiCo vám můžeme
+  nabídnoutFlexibilní pracovní doba + home office25+ dní dovolenéPříspěvky na
+  sport a vzděláváníPříspěvek na stravováníCafeteria systém benefitů a další
+  zaměstnanecké výhodyZaujala Vás tato pracovní nabídka? Neváhejte zaslat své CV
+  v AJ - bude jej posuzovat i mezinárodní tým.
+
+👤 Kontakt: Simona  Šimánková
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Technical Developer/Designer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: KBC Global Services NV
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Integration Engineer | Workato  | Hybrid
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Jobs Contact Personal, s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Full-stack vývojář/vývojářka
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Masarykova univerzita
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Ředitel ICS MUNI vyhlašuje výběrové řízení na poziciFull-stack
+  vývojář/vývojářka.Na ICS MUNI zajišťujeme provoz a rozvoj IT infrastruktury
+  Masarykovy univerzity. Naše služby využívá více než 6 500 zaměstnanců a 31 000
+  studentů. S kvalitou našich služeb patříme mezi špičku univerzitních IT center
+  v Evropě. Vedle technologií si zakládáme na profesionalitě, odpovědnosti
+  a lidském přístupu.Agent MUNI je interní AI platforma Masarykovy univerzity.
+  Tvoří ji konverzační asistent s pamětí, specializovaní agenti pro pracovní
+  úkoly, znalostní báze s odpověďmi ze směrnic a předpisů (RAG), workflow engine
+  pro vícekrokové procesy s lidským schvalováním a doménové aplikace pro agendy
+  jednotlivých pracovišť.Platforma už běží v produkčním provozu, používají ji
+  reální uživatelé a průběžně ji rozvíjíme. Do týmu hledáme dalšího full-stack
+  vývojáře / další vývojářku, který/která se bude podílet na celém vývojovém
+  cyklu – od návrhu řešení přes backend a frontend až po nasazení a provoz
+  v Azure.Co Vás na této pozici čeká?Vývoj nových funkcí platformy end-to-end –
+  od datového modelu přes backend a frontend až po nasazení,vývoj
+  specializovaných AI agentů a napojování AI služeb – jazykové a multimodální
+  modely, dokumenty, řeč nebo obraz,rozvoj aplikací podle konkrétních potřeb
+  pracovišť univerzity,práce s RAG a znalostními bázemi – vyhledávání, citace
+  zdrojů a vyhodnocování kvality odpovědí,integrace s univerzitními systémy
+  a externími službami, například Microsoft 365 / Graph, identitními službami
+  nebo API veřejné správy,podíl na provozní kvalitě platformy – oprávnění,
+  auditní stopa, monitoring nebo evidence nákladů na AI.S čím
+  pracujeme?Frontend: React, TypeScript, Vite, Tailwind,Backend: TypeScript
+  (Deno), PostgreSQL, PostgREST, Azure Container Apps a Blob Storage,AI: Azure
+  AI Foundry, vlastní agentní runtime a workflow engine, RAG, pgvector
+  a hybridní vyhledávání,Integrace: Microsoft Entra ID, Microsoft Graph a API
+  dalších služeb,Provoz: Azure, CI/CD; pro některé úlohy využíváme také
+  Python.Koho hledáme?Máte jistotu v TypeScriptu a Reactu a solidní znalost
+  SQL,máte zkušenost s provozem aplikací v cloudu, ideálně v Azure, případně
+  chuť si jej rychle osvojit,máte praktickou zkušenost s LLM, RAG, embeddingy
+  a tool callingem a dokážete posoudit kvalitu AI výstupů,jste samostatní
+  a dokážete převzít odpovědnost za řešení od prvotní potřeby až po produkční
+  nasazení,umíte komunikovat se zadavateli, porozumět jejich potřebám a z
+  rozhovorů sami formulovat zadání a navrhnout vhodné řešení – nečekáte na
+  detailně připravené technické specifikace,svou práci dokážete dotáhnout do
+  produkce včetně potřebné dokumentace,ovládáte češtinu pro komunikaci se
+  zadavateli a práci s texty v produktu a angličtinu pro práci s technickou
+  dokumentací,výhodou je zkušenost s Deno/Node backendy, Pythonem, AI-
+  asistovaným vývojem nebo akademickým prostředím.Co nabízíme?Práci na AI
+  platformě, která už běží v produkci a má reálné uživatele,prostor ovlivňovat
+  podobu produktu, technologická rozhodnutí a přicházet s vlastními
+  nápady,smysluplnou práci na řešeních využívaných napříč Masarykovou
+  univerzitou,stabilní zázemí velké univerzity a podporu dalšího vzdělávání
+  a profesního rozvoje,pružnou pracovní dobu, možnost příležitostné práce
+  z domova a 6 týdnů dovolené; stravenkový paušál (65Kč/den) a možnost
+  zprostředkování MultiSport karty; možnost čerpat příspěvek na penzijní
+  spoření, školkovné nebo dlouhodobý investiční produkt; hrazená očkování,
+  psychologické poradenství, kariérní poradenství a rozvojové aktivity; možnost
+  využívat knihovny a další zázemí Masarykovy univerzity.Zaujala Vás
+  pozice?Pošlete nám svůj životopis a stručně nám napište, proč Vás práce na
+  Agent MUNI zaujala. Budeme se těšit na setkání.ICS MUNI podporuje rovné
+  příležitosti. Při výběru zaměstnanců rozhodují odborné předpoklady, zkušenosti
+  a motivace uchazečů a uchazeček bez ohledu na pohlaví, věk, původ, zdravotní
+  stav, náboženské vyznání, sexuální orientaci či jiné charakteristiky, které
+  nesouvisejí s výkonem práce.Jsme držitelem ocenění HR Excellence in Research
+  Award (HR Award), kterým se hlásí k principům otevřeného, transparentního
+  a férového náboru a k vytváření kvalitních podmínek pro profesní rozvoj svých
+  zaměstnanců.
+
+👤 Kontakt: Jana Veselá
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Junior AI Developer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: TATRA TRUCKS a. s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Databázový specialista/ka
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: HAVEL & PARTNERS s.r.o., advokátní kancelář
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 APLIKAČNÍ SW INŽENÝR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: PBS Velká Bíteš
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Senior Machine Learning Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: TV Nova s.r.o.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 Seniorní vývojář/ka s vedením týmu
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 Společnost: Air Bank a.s.
+
+📍 Lokalita: Lokalita nenalezena
+
+📋 Detail pozice:
+
+    Detail pozice nenalezen
+
+👤 Kontakt: Kontaktní osoba nenalezena
+
+📞 Telefon: Telefon nenalezen
+
